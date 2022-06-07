@@ -5,7 +5,11 @@ Spyder Editor
 This is a temporary script file.
 """
 import discord
+import json
 
+#打開json並讀取，使用utf8 encode
+with open('setting.json',mode='r',encoding='utf8') as jFile:
+    jdata = json.load(jFile)
 #intents = 
 
 client = discord.Client()
@@ -27,4 +31,4 @@ async def on_message(message):
     if message.content.startswith('查詢'):
         await message.channel.send('Done!')
 
-client.run('OTgzNjA0Nzc4MjAwMzY3MTA0.GH3rLL.T-mv9IvdZRd2U1Mgp_-tU5MZfUptkwzaDhlGIc')
+client.run(jdata['Token'])
