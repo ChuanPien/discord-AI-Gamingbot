@@ -20,7 +20,7 @@ class Event(Cog_Extension):
         #設定傳送消息頻道
         sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
         #測試用指令
-        if msg.content == 'Test' and msg.author != self.bot.user:
+        if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user:
             await msg.channel.send('Hello!')
         if msg.content == '查詢' and msg.author != self.bot.user:
             await msg.channel.send('Test Done!')
