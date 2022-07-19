@@ -12,10 +12,11 @@ import os
 #打開json並讀取，使用utf8 encode
 with open('setting.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
-#intents = 
+ 
 
 client = discord.Client()
 bot = commands.Bot(command_prefix='$')
+
 
 @bot.event
 async def on_ready():
@@ -37,6 +38,7 @@ async def reload(ctx, extension):
 async def unload(ctx, extension):
     bot.unload_extension(f"cmds.{extension}")
     await ctx.send(f"un-Loaded {extension} done.")
+
 
 
 for filename in os.listdir("./cmds"):
