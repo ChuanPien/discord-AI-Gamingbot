@@ -8,11 +8,11 @@ import discord
 import json
 from discord.ext import commands
 import os
+import ttt
 
 #打開json並讀取，使用utf8 encode
 with open('setting.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
- 
 
 client = discord.Client()
 bot = commands.Bot(command_prefix='$')
@@ -39,7 +39,11 @@ async def unload(ctx, extension):
     bot.unload_extension(f"cmds.{extension}")
     await ctx.send(f"un-Loaded {extension} done.")
 
-
+@bot.command()
+async def search(ctx, msg):
+    t = ttt.test(msg)
+    print(t.google())
+    await ctx.send(t.google())
 
 for filename in os.listdir("./cmds"):
     if filename.endswith('.py'):
