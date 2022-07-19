@@ -58,9 +58,7 @@ class Event(Cog_Extension):
         channel_log = self.bot.get_channel(jdata['Del_chat_log_ID'])
         endShow = 0
         if msg.author.guild.name != str(jdata['test_discord_group']):
-            #顯示時間
-            #await channel_log.send("----------------"+ getTime() + "-------------------")
-            #在cmd上記錄
+            #在cmd上記錄，並顯示時間
             print("wrong group! don't do anything    "+getTime())
             #await channel_log.send("wrong group! don't do anything")
         else:
@@ -90,7 +88,7 @@ class Event(Cog_Extension):
             #await channel_log.send("Test see2" + str(msg))
             endShow +=1
         #訊息結尾
-        print(endShow)
+        #print(endShow)
         if endShow != 0:
             sleep(1)
             await channel_log.send("---------------- End -------------------")
