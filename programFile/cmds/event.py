@@ -1,8 +1,6 @@
-import imp
 import discord
 import json
 import datetime # 引入datetime
-from core.ttt import test
 from discord.ext import commands
 from core.classes import Cog_Extension
 from time import sleep
@@ -14,26 +12,21 @@ with open('setting.json',mode='r',encoding='utf8') as jFile:
 #取得現在時間
 def getTime():
     return (str(datetime.datetime.now()))
-#初始化
-search =""
-
-
 
 class Event(Cog_Extension):
     @commands.Cog.listener()
     #on_massage功能必須寫在同一處 不然會覆蓋
     async def on_message(self, msg):
         #設定傳送消息頻道
-        sendContentChannel = self.bot.get_channel(jdata['listen_test_channelID'])
+        sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
         #測試用指令
         if msg.content == 'Test' and msg.author != self.bot.user:
             await msg.channel.send('Hello!')
         if msg.content == '查詢' and msg.author != self.bot.user:
-            search = msg.content
-            await msg.channel.send('Test Done!'+test.google())
+            await msg.channel.send('Test Done!')
             
         #傳送A群組文字頻道消息到B群組
-        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['Trans_test_channelID'] and msg.author != self.bot.user:
+        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_test_channelID'] and msg.author != self.bot.user:
             #Debug
             #print(f'Fetched message: {msg}')
             #discord.Client.sniped_message = msg
@@ -73,7 +66,7 @@ class Event(Cog_Extension):
         else:
             #顯示時間
             await channel_log.send("----------------"+ getTime() + "-------------------")
-            #抓取審核日誌 並提取刪除操作人 發出消息到專用頻道(自我刪除的無法抓取)
+            #抓取審核日誌 並提取刪除操作人 發出消息到專用頻道
             counter = 1
             async for audilog in msg.guild.audit_logs(action = discord.AuditLogAction.message_delete):
                 if counter == 1:
