@@ -12,10 +12,6 @@ class Main(Cog_Extension):
 #顯示延遲
     async def ping(self,ctx):
         await ctx.send(f'{round(self.bot.latency*1000)} (ms)')
-#測試用指令
-    @commands.command()
-    async def hi(self, ctx):
-        await ctx.send("ABCC")
 
 #機器人幫你發話，並刪除指令發送訊息
 #*,msg *後面任何arge都會被讀取
