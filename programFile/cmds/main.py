@@ -28,6 +28,9 @@ class Main(Cog_Extension):
     @commands.command()
     async def clean (self, ctx, num:int):
         await ctx.channel.purge(limit=num+1)
+    @commands.command()
+    async def gChId(self,ctx):
+        await ctx.send(f'This Chennel ID is : {ctx.channel.id}')
 
 
 
