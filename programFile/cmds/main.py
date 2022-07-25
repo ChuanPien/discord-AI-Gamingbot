@@ -28,13 +28,7 @@ class Main(Cog_Extension):
     @commands.command()
     async def clean (self, ctx, num:int):
         await ctx.channel.purge(limit=num+1)
-"""#更改json 監聽頻道ID
-    @commands.command()
-    async def listID(self ,ctx, msg, msg2):
-        for test in jdata:
-            if test == str(msg):
-                jdata[test] = int(msg2)
-        await ctx.send("listen_channelID更改完成")"""
+
 
 
 
