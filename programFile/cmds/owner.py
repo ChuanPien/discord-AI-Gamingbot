@@ -54,6 +54,15 @@ class Owner(Cog_Extension):
     async def myid(self,ctx):
         await ctx.send(f'Your ID is : {ctx.author.id}')
 
+#對特定頻道傳送消息
+#ID必須為整數型態
+    @commands.command()
+    @commands.is_owner()
+    async def chmsg(self,ctx, text, getid):
+        userid = ctx.author.nick
+        sendmsgch = self.bot.get_channel(int(getid))
+        await sendmsgch.send(f'{userid} 說 : {text}')
+
 
 def setup(bot):
     bot.add_cog(Owner(bot))
