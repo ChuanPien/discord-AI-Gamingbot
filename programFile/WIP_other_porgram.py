@@ -7,5 +7,7 @@ class test:
     def getTime():
         print (str(datetime.datetime.now()))
     def google(self):
-        google = "https://www.google.com/search?q="+str(self.search)
+        #.replace(" ","+") 將空白字元轉換成google網址的空白搜尋替代字元
+        #以便正確顯示搜尋的相關網址
+        google = "https://www.google.com/search?q="+str(self.search.replace(" ","+"))
         return google
