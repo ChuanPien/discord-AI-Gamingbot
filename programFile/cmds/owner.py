@@ -24,7 +24,7 @@ class Owner(Cog_Extension):
 #load cmds資料夾內所有cog
             for filename in os.listdir("./cmds"):
                 if filename.endswith('.py'):
-                    self.bot.load_extension(f"cmds.{filename[:-3]}")
+                    self.bot.reload_extension(f"cmds.{filename[:-3]}")
             await ctx.send(f"RE-Loaded ALL done.")
         else:
             self.bot.reload_extension(f"cmds.{extension}")
