@@ -35,13 +35,21 @@ class Owner(Cog_Extension):
     async def unload(self, ctx, extension):
         self.bot.unload_extension(f"cmds.{extension}")
         await ctx.send(f"un-Loaded {extension} done.")
-    
+#close bot    
     @commands.command()
     @commands.is_owner()
     async def shutdown(self, ctx):
         await ctx.send("Shutdown now..... Pls wait")
         await asyncio.sleep(1)
         await self.bot.close()
+
+#restart bot
+    @commands.command()
+    @commands.is_owner()
+    async def shutdown(self, ctx):
+        await ctx.send("Restart now..... Pls wait")
+        await asyncio.sleep(1)
+        await self.bot.clear()
 
 #取得使用此指令的頻道ID
     @commands.command()
