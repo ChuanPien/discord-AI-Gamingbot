@@ -15,7 +15,7 @@ with open('setting.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
 
 client = discord.Client()
-bot = commands.Bot(command_prefix=jdata['Prefix'],owner_ids=jdata['Owner_id'])
+bot = commands.Bot(command_prefix=jdata['Prefix'],owner_ids=jdata['Owner_id'],self_bot=False)
 
 #啟動完成發送，bot上線消息(cmd)
 @bot.event
