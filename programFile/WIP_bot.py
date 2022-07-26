@@ -25,7 +25,6 @@ async def on_ready():
 
 #bot關閉後，發送訊息至cmd
 @bot.event
-@bot.is_owner()
 async def on_close():
     print('>>>  Bot Is offline <<<')
     
