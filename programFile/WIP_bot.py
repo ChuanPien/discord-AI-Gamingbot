@@ -15,29 +15,20 @@ with open('setting.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
 
 client = discord.Client()
-bot = commands.Bot(command_prefix='$')
+bot = commands.Bot(command_prefix=jdata['Prefix'],owner_ids=jdata['Owner_id'])
 
-#啟動完成發送 bot上線消息(cmd)
+#啟動完成發送，bot上線消息(cmd)
 @bot.event
 async def on_ready():
     print('>>>  Bot Is online <<<')
     print('We have logged in as {0.user}'.format(bot))
+
+#bot關閉後，發送訊息至cmd
+@bot.event
+@bot.is_owner()
+async def on_close():
+    print('>>>  Bot Is offline <<<')
     
-#load模塊
-@bot.command()
-async def load(ctx, extension):
-    bot.load_extension(f"cmds.{extension}")
-    await ctx.send(f"Loaded {extension} done.")
-#reload模塊
-@bot.command()
-async def reload(ctx, extension):
-    bot.reload_extension(f"cmds.{extension}")
-    await ctx.send(f"RE-Loaded {extension} done.")
-#unload模塊
-@bot.command()
-async def unload(ctx, extension):
-    bot.unload_extension(f"cmds.{extension}")
-    await ctx.send(f"un-Loaded {extension} done.")
 #簡易google查詢
 @bot.command()
 async def search(ctx, *,msg):
@@ -45,7 +36,7 @@ async def search(ctx, *,msg):
     print(Wop.google())
     await ctx.send(Wop.google())
 
-#掃描cmds中的任何 *.py，並load
+#load cmds資料夾內所有cog
 for filename in os.listdir("./cmds"):
     if filename.endswith('.py'):
         bot.load_extension(f"cmds.{filename[:-3]}")
