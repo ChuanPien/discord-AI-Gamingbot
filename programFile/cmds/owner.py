@@ -43,14 +43,6 @@ class Owner(Cog_Extension):
         await asyncio.sleep(1)
         await self.bot.close()
 
-#restart bot
-    @commands.command()
-    @commands.is_owner()
-    async def restart(self, ctx):
-        await ctx.send("Restart now..... Pls wait")
-        await asyncio.sleep(1)
-        await self.bot.clear()
-
 #取得使用此指令的頻道ID
     @commands.command()
     @commands.is_owner()
