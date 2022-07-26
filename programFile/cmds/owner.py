@@ -46,7 +46,7 @@ class Owner(Cog_Extension):
 #restart bot
     @commands.command()
     @commands.is_owner()
-    async def shutdown(self, ctx):
+    async def restart(self, ctx):
         await ctx.send("Restart now..... Pls wait")
         await asyncio.sleep(1)
         await self.bot.clear()
@@ -54,12 +54,12 @@ class Owner(Cog_Extension):
 #取得使用此指令的頻道ID
     @commands.command()
     @commands.is_owner()
-    async def gChId(self,ctx):
+    async def getchid(self,ctx):
         await ctx.send(f'This Chennel ID is : {ctx.channel.id}')
 #取得使用指令的使用者ID
     @commands.command()
     @commands.is_owner()
-    async def yourID(self,ctx):
+    async def myid(self,ctx):
         await ctx.send(f'Your ID is : {ctx.author.id}')
 
 
