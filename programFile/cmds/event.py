@@ -31,16 +31,16 @@ class Event(Cog_Extension):
             #discord.Client.sniped_message = msg
             await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－")
             sleep(1)
-            await sendContentChannel.send("訊息伺服器 : "+ str(msg.author.guild.name))
+            await sendContentChannel.send("訊息 : " + str(msg.content))
             sleep(0.5)
             if msg.author.nick == None:
                 await sendContentChannel.send("訊息發送者 : " + str(msg.author.name))
             else:
                 await sendContentChannel.send("訊息發送者(伺服器暱稱) : " + str(msg.author.nick))
             sleep(1)
-            await sendContentChannel.send("訊息發送頻道 : "+ str(msg.channel.name))
+            await sendContentChannel.send("訊息發送頻道 : "+ str(msg.channel.name)+" ,"+str(msg.channel.id))
             sleep(0.5)
-            await sendContentChannel.send("訊息 : " + str(msg.content))
+            await sendContentChannel.send("訊息伺服器 : "+ str(msg.author.guild.name))
             sleep(1)
             await sendContentChannel.send("－－－－－－－－－－－－－－－－－－－－－－－－－")
 
