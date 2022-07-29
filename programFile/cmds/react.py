@@ -9,6 +9,7 @@ class React(Cog_Extension):
 #測試用指令
     @commands.command()
     async def hi(self, ctx):
+        print("HI!~")
         await ctx.send("ABCC")
 
 def setup(bot):
