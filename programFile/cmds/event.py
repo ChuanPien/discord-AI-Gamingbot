@@ -25,7 +25,7 @@ class Event(Cog_Extension):
             await msg.channel.send('Test Done!')"""
             
         #傳送A群組文字頻道消息到B群組
-        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_test_channelID'] and msg.author != self.bot.user:
+        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_Char2'] and msg.author != self.bot.user:
             #Debug
             #print(f'Fetched message: {msg}')
             #discord.Client.sniped_message = msg
