@@ -17,7 +17,7 @@ class Event(Cog_Extension):
     #on_massage功能必須寫在同一處 不然會覆蓋
     async def on_message(self, msg):
         #設定傳送消息頻道
-        sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
+        sendContentChannel = self.bot.get_channel(jdata['listen_test_channelID'])
         #測試用指令
         if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user and msg.author.name == "must505":
             await msg.channel.send('Hello!')
@@ -25,10 +25,11 @@ class Event(Cog_Extension):
             await msg.channel.send('Test Done!')"""
             
         #傳送A群組文字頻道消息到B群組
-        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_Char2'] and msg.author != self.bot.user:
+        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['Trans_test_channelID'] and msg.author != self.bot.user:
             #Debug
             #print(f'Fetched message: {msg}')
             #discord.Client.sniped_message = msg
+            """ 老格式
             await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－")
             sleep(1)
             await sendContentChannel.send("訊息 : " + str(msg.content))
@@ -43,6 +44,11 @@ class Event(Cog_Extension):
             await sendContentChannel.send("訊息伺服器 : "+ str(msg.author.guild.name))
             sleep(1)
             await sendContentChannel.send("－－－－－－－－－－－－－－－－－－－－－－－－－")
+            """
+            if msg.author.nick == None:
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,0,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
+            else:
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,1,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
 
         if msg.channel.id == 995880772227567726 and msg.author.name == "must505" and msg.content == "list":
             for name in jdata:
@@ -68,10 +74,12 @@ class Event(Cog_Extension):
             async for audilog in msg.guild.audit_logs(action = discord.AuditLogAction.message_delete):
                 if counter == 1:
                     await channel_log.send("刪除者(discord名子) : " + str(audilog.user.name))
+                    #debug
                     #await channel_log.send("Test see" + str(audilog))
                     counter +=1
             sleep(1)
             #發送刪除消息到 專用頻道
+            """ old version send
             await channel_log.send("原始訊息內容 : " + str(msg.content))
             sleep(1)
             await channel_log.send("原始訊息頻道 : " + str(msg.channel.name))
@@ -84,13 +92,17 @@ class Event(Cog_Extension):
                 await channel_log.send("原始訊息發送者(伺服器暱稱) : " + str(msg.author.nick))
             sleep(1)
             await channel_log.send("原始訊息發送者(真實ID) : " + str(msg.author.name))
+            """
+            #new version send
+            await channel_log.send(Global_Func.logMessage(msg,1,1,1,1,1,0))
+            #debug
             #await channel_log.send("Test see2" + str(msg))
             endShow +=1
         #訊息結尾
         #print(endShow)
         if endShow != 0:
             sleep(1)
-            await channel_log.send("---------------- End -------------------")
+            await channel_log.send("\n----------------Delete Log End -------------------")
     
 
 
