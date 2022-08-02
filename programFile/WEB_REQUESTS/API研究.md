@@ -1,11 +1,18 @@
-# POE 台福官網API
+# POE 台服官網API
 - 交易API網址
   - https://web.poe.garena.tw/api/info
 - API developer docs
   - 純英文的官方文檔
   - https://www.pathofexile.com/developer/docs/index
-## 目標網站
-目標網站:https://web.poe.garena.tw/api/trade/search/%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F
+## 目標網站(台服)
+- https://web.poe.garena.tw/api/trade/search/%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F
+  - 守望聯盟
+- https://web.poe.garena.tw/api/trade/search/%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F%EF%BC%88%E5%B0%88%E5%AE%B6%EF%BC%89
+  - 守望聯盟（專家）
+- https://web.poe.garena.tw/api/trade/search/%E6%A8%99%E6%BA%96%E6%A8%A1%E5%BC%8F
+  - 標準模式
+- https://web.poe.garena.tw/api/trade/search/%E5%B0%88%E5%AE%B6%E6%A8%A1%E5%BC%8F
+  - 專家模式
 >%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F 為台服 守望聯盟server搜尋結果
 ## API使用、取得解說
 ### get result
