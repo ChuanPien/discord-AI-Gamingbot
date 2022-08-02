@@ -1,0 +1,17 @@
+# POE 台福官網API
+- 交易API網址
+  - https://web.poe.garena.tw/api/info
+- API developer docs
+  - 純英文的官方文檔
+  - https://www.pathofexile.com/developer/docs/index
+## 目標網站
+目標網站:https://web.poe.garena.tw/api/trade/search/%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F
+>%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F 為台服 守望聯盟server搜尋結果
+## API使用、取得解說
+### get result
+目標網站 + 指定條件(payload query) json格式後會回傳100條result + 其query 的對應id
+並將result 拆分成每10條一組的形式保存，記錄其queryId
+### get 賣家詳細資料
+get infomasion: https://web.poe.garena.tw/api/trade/fetch/
+將上述網址 /fetch後段加上 result(10) + queryID，即可取得查詢資料
+>payload 無需使用
