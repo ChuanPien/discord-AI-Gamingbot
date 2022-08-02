@@ -13,7 +13,6 @@
   - 標準模式
 - https://web.poe.garena.tw/api/trade/search/%E5%B0%88%E5%AE%B6%E6%A8%A1%E5%BC%8F
   - 專家模式
->%E5%AE%88%E6%9C%9B%E8%81%AF%E7%9B%9F 為台服 守望聯盟server搜尋結果
 ## API使用、取得解說
 ### get result
 目標網站 + 指定條件(payload query) json格式後會回傳100條result + 其query 的對應id
