@@ -14,4 +14,5 @@
 ### get 賣家詳細資料
 get infomasion: https://web.poe.garena.tw/api/trade/fetch/
 將上述網址 /fetch後段加上 result(10) + queryID，即可取得查詢資料
->payload 無需使用
+>無需使用 payload
+## 整理資料(待補)
