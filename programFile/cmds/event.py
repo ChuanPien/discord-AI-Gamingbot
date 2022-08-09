@@ -17,7 +17,7 @@ class Event(Cog_Extension):
     #on_massage功能必須寫在同一處 不然會覆蓋
     async def on_message(self, msg):
         #設定傳送消息頻道
-        sendContentChannel = self.bot.get_channel(jdata['listen_test_channelID'])
+        sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
         #測試用指令
         if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user and msg.author.name == "must505":
             await msg.channel.send('Hello!')
@@ -46,9 +46,9 @@ class Event(Cog_Extension):
             await sendContentChannel.send("－－－－－－－－－－－－－－－－－－－－－－－－－")
             """
             if msg.author.nick == None:
-                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,0,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,0,1,1,1,1,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
             else:
-                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,1,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,1,1,1,1,1,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
 
         if msg.channel.id == 995880772227567726 and msg.author.name == "must505" and msg.content == "list":
             for name in jdata:
