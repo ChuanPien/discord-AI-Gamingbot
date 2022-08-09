@@ -22,5 +22,8 @@ get infomasion: https://web.poe.garena.tw/api/trade/fetch/
 將上述網址 /fetch後段加上 result(10) + queryID，即可取得查詢資料
 >無需使用 payload
 ## 整理資料(待補)
->暫定
+>小教學https://www.reddit.com/r/pathofexiledev/comments/7aiil7/how_to_make_your_own_queries_against_the_official/
+
+- https://web.poe.garena.tw/api/trade/data/stats
+  - 屬性json(官方API)
 丟查詢結果網址
