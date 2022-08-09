@@ -15,7 +15,7 @@ class Global_Func():
         return str(datetime.datetime.now())
     #msg訊息發送選擇
     def logMessage(msg,authorNick,authorName,guildName,chatName,chatId,guildMembers):
-        msgJson = [authorNick,authorName,guildName,chatName,chatId,guildMembers]
+        msgList = [authorNick,authorName,guildName,chatName,chatId,guildMembers]
         msgSendNick = "\n訊息發送者(伺服器暱稱) : " + str(msg.author.nick)
         msgSendName = "\n訊息發送者 : " + str(msg.author.name)
         msgContent = "\n訊息 : " + str(msg.content)
@@ -25,8 +25,8 @@ class Global_Func():
         memberCount = "\n成員數 : "+ str(msg.author.guild.member_count)
         printList = [msgSendNick,msgSendName,msgContent,authorGuildName,channelName,channelId,memberCount]
         returnText = ""
-        for lists in range(len(msgJson)):
-            if msgJson[lists] != 1:
+        for lists in range(len(msgList)):
+            if msgList[lists] != 1:
                 continue
             returnText = returnText+str(printList[lists])
         return returnText
