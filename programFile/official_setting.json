@@ -1,6 +1,6 @@
 {
     "Token":"Your Token",
-    "Prefix": ["`"],
+    "Prefix": ["/","`","!"],
     "Owner_id": [322562545523097600,968372079713996821,486537414798606337],
     "test_discord_group":"專題",
     "Trans_channelID":983616370178682941,
