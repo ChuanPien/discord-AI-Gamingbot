@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 import datetime
+import json
 
 class Cog_Extension(commands.Cog):
     #用於Cog繼承
@@ -30,3 +31,23 @@ class Global_Func():
                 continue
             returnText = returnText+str(printList[lists])
         return returnText
+
+
+class messageFormat():
+    #訊息格式化
+    def __init__(self,msg):
+        self.msg = msg.content
+        self.usersId = msg.author.id
+    def getMsg(self):
+        return str(self.msg)
+    def getUserId(self):
+        return str(self.usersId)
+    def log(self):
+        newData = {self.usersId:self.msg}
+        with open('setting.json','r',encoding='utf8') as jFile:
+            jdata = json.load(jFile)
+            jdata.update(newData)
+        jFile.close()
+        with open('setting.json','w',encoding='utf8') as jFile:
+            json.dump(newData,jFile)
+        jFile.close()
