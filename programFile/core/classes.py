@@ -36,18 +36,39 @@ class Global_Func():
 class messageFormat():
     #訊息格式化
     def __init__(self,msg):
-        self.msg = msg.content
-        self.usersId = msg.author.id
+        self.msg = str(msg.content)
+        self.usersId = str(msg.author.id)
     def getMsg(self):
         return str(self.msg)
     def getUserId(self):
         return str(self.usersId)
     def log(self):
-        newData = {self.usersId:self.msg}
-        with open('setting.json','r',encoding='utf8') as jFile:
-            jdata = json.load(jFile)
-            jdata.update(newData)
+        users = str(str(self.usersId)+"-"+Global_Func.getTime())
+        print("\n\n users : ",users)
+        newData = {users:self.msg}
+        #初始化jdata,jsonNull
+        jdata = {}
+        jsonNull = False
+        with open('log.json','r',encoding='utf8') as jFile:
+            jread = jFile.read()
+            if jread == "":
+                print("\n\n\njdata是空的!")
+                jdata = {}
+                jdata.update(newData)
+            else:
+                jsonNull = True
+                jFile.close()
+        if jsonNull == True:
+            with open('log.json','r',encoding='utf8') as jFile:
+                jdata = json.load(jFile)
+                print("\n\n  : ",jdata)
+                #jdata["{}".format(self.data)].append(self.text)
+        jdata.update(newData)
+        print("\n\n jdata-append : ",jdata)
+        with open('log.json','w',encoding='utf8') as jFile:
+            json.dump(jdata,jFile, indent=4, ensure_ascii=False)
+        print("\n\n jFile : ",jFile)
         jFile.close()
-        with open('setting.json','w',encoding='utf8') as jFile:
-            json.dump(newData,jFile)
-        jFile.close()
+        print("完成瞜~")
+    def msgsp():
+        pass
