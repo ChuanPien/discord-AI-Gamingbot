@@ -134,3 +134,4 @@ programFile/WEB_REQUESTS/requests2.py
 *.html
 programFile/WEB_REQUESTS/requests_test.py
 programFile/WEB_REQUESTS/requests_post.py
+programFile/log.json
