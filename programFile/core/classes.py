@@ -8,6 +8,11 @@ class Cog_Extension(commands.Cog):
     def __init__(self,bot):
         self.bot = bot
 
+class Global_Data:
+    search_reactMsg =""
+    def __init__(self):
+        pass
+
 class Global_Func():
     #自定義常用功能
 
