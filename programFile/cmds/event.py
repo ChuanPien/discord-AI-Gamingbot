@@ -3,7 +3,7 @@ import json
 import datetime # 引入datetime
 from discord.ext import commands
 from cmds.owner import Owner
-from core.classes import Cog_Extension,Global_Func
+from core.classes import Cog_Extension,Global_Func,messageFormat
 from time import sleep
 
 
@@ -18,11 +18,28 @@ class Event(Cog_Extension):
     async def on_message(self, msg):
         #設定傳送消息頻道
         sendContentChannel = self.bot.get_channel(jdata['listen_test_channelID'])
+        #初始化，設定專用log頻道
+        logChat = self.bot.get_channel(jdata['Log_chat'])
+        #msg抓取初始化
+        if msg.author != self.bot.user:
+            msgFormat = msg.content
+            msgFormat = msgFormat.split(" ")
+            print(msgFormat)
         #測試用指令
         if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user and msg.author.name == "must505":
             await msg.channel.send('Hello!')
-        """if msg.content == '查詢' and msg.author != self.bot.user and msg.author.name == "must505":
-            await msg.channel.send('Test Done!')"""
+        #測試log運作
+        if msg.author != self.bot.user:
+            for mf in msgFormat:
+                if mf == 'sec' :
+                #debug
+                    await msg.channel.send("log運作測試")
+                    #初始化messageFormat
+                    msg_f = messageFormat(msg)
+                    msg_f.log()
+                    await logChat.send("－－－－－\n"+"ID: "+msg_f.getUserId()+"\nMsg: "+msg_f.getMsg()+"\n－－－－－")
+                else:
+                    print("\n\nError")
             
         #傳送A群組文字頻道消息到B群組
         if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['Trans_test_channelID'] and msg.author != self.bot.user:
@@ -46,9 +63,9 @@ class Event(Cog_Extension):
             await sendContentChannel.send("－－－－－－－－－－－－－－－－－－－－－－－－－")
             """
             if msg.author.nick == None:
-                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,0,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,0,1,1,1,1,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
             else:
-                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,1,1,1,1,0,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
+                await sendContentChannel.send("－－－－－－－－－－－－"+Global_Func.getTime()+"－－－－－－－－－－－－"+Global_Func.logMessage(msg,1,1,1,1,1,0)+"\n－－－－－－－－－－－－－－－－－－－－－－－－－")
 
         if msg.channel.id == 995880772227567726 and msg.author.name == "must505" and msg.content == "list":
             for name in jdata:
