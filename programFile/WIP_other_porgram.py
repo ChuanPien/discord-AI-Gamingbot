@@ -9,16 +9,15 @@ class test:
         google = "https://www.google.com/search?q="+str(self.search.replace(" ","+"))
         return google
     def ninja(self):
-        poe = "https://poe.ninja/challenge/builds"+str(self.search.replace(" ","&"))
+        testString = self.search.split(":")
+        skill = "?skill="+testString[0]
+        item = "item="+testString[1]
+        skillmode = "skillmode="+testString[2]
+        keystone = "keystone="+testString[3]
+        allskill = "allskill="+testString[4]
+        weapon = "weapon="+testString[5]
+
+
+        poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
         return poe
 
-"""
-https://poe.ninja/challenge/builds
-?skill= string,string2.....
-?item = 同上
-?skillmode = 同上
-?keystone =同上
-?allskill=
-?weapon =同上
-多重條件連結用&
-"""
