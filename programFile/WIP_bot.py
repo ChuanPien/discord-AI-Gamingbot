@@ -31,6 +31,13 @@ async def search(ctx, *,msg):
     print(Wop.google())
     await ctx.send(Wop.google())
 
+# poe.ninja簡易查詢
+@bot.command()
+async def poesearch(ctx, *,msg):
+    Wop = WIP_other_porgram.test(msg)
+    print(Wop.ninja())
+    await ctx.send(Wop.ninja())
+
 #load cmds資料夾內所有cog
 for filename in os.listdir("./cmds"):
     if filename.endswith('.py'):

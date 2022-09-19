@@ -8,3 +8,17 @@ class test:
         #以便正確顯示搜尋的相關網址
         google = "https://www.google.com/search?q="+str(self.search.replace(" ","+"))
         return google
+    def ninja(self):
+        poe = "https://poe.ninja/challenge/builds"+str(self.search.replace(" ","&"))
+        return poe
+
+"""
+https://poe.ninja/challenge/builds
+?skill= string,string2.....
+?item = 同上
+?skillmode = 同上
+?keystone =同上
+?allskill=
+?weapon =同上
+多重條件連結用&
+"""
