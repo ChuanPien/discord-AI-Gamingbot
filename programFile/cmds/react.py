@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 import scipy as sp
 from core.classes import Cog_Extension,Global_Data
-from WEB_REQUESTS.testPOEweb import testPOE
+# from WEB_REQUESTS.testPOEweb import testPOE
 
 class React(Cog_Extension):
     @commands.command()
@@ -14,6 +14,7 @@ class React(Cog_Extension):
     async def hi(self, ctx):
         print("HI!~")
         await ctx.send("ABCC")
+    '''
     #testPOE
     @commands.command()
     async def poe(self, ctx, *,msg):
@@ -25,6 +26,7 @@ class React(Cog_Extension):
         tpoe.chromedriver()
         report_msg = Global_Data.search_reactMsg
         await ctx.send(report_msg)
+    '''
     
 
 def setup(bot):
