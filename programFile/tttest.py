@@ -2,7 +2,7 @@ from matplotlib import test
 import ttt
 sch = "123 456 7864 5a4s6d54a5 4a6s 4a56s 4d6a4s"
 sch.replace(" ","+")
-msg = "Anomalous-Forbidden-Rite,Vaal-Cyclone:::56565a:"
+msg = "::::"
 
 testStringType = "123456:::asdasd:"
 

@@ -50,6 +50,7 @@ class test:
             print("msg : "+str(msg[lists]))
     def ninja(self):
         first_element = 0
+        input_list_none_count = 0
         last_url =''
         url_ninja = 'https://poe.ninja/challenge/builds?'
         url_element = ["skill=","item=","skillmode=","keystone=","allskill=","weapon="]
@@ -58,19 +59,20 @@ class test:
 
         print(testString,len(testString))
 
-        for i in range(0,len(testString)):
+        for i in range(0,len(url_element)):
             stringContent = testString[i]
             if stringContent == '':
-                pass
-            elif first_element == 0:
+                input_list_none_count += 1
+            elif stringContent != '' and first_element == 0:
                 last_url = url_ninja+url_element[i]+stringContent
                 first_element = first_element + 1
-            elif first_element != 0:
+            elif stringContent != '' and first_element != 0:
                 last_url = last_url+element_link+url_element[i]+stringContent
             else:
                 last_url = "輸出錯誤"
                 break
-
+        if input_list_none_count == len(testString):
+            last_url = "請至少輸入一項查詢項目"
 
 
         # poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
