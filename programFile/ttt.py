@@ -1,6 +1,10 @@
+from ctypes import sizeof
 import os 
 import json
 import datetime
+from xml.dom.minidom import Element
+
+from more_itertools import first, last
 
 #for filename in os.listdir('./cmds'):
 #    print(filename)
@@ -45,18 +49,34 @@ class test:
                 continue
             print("msg : "+str(msg[lists]))
     def ninja(self):
+        first_element = 0
+        last_url =''
+        url_ninja = 'https://poe.ninja/challenge/builds?'
+        url_element = ["skill=","item=","skillmode=","keystone=","allskill=","weapon="]
+        element_link = "&"
         testString = self.search.split(":")
-        skill = "?skill="+testString[0]
-        item = "item="+testString[1]
-        skillmode = "skillmode="+testString[2]
-        keystone = "keystone="+testString[3]
-        allskill = "allskill="+testString[4]
-        weapon = "weapon="+testString[5]
+
+        print(testString,len(testString))
+
+        for i in range(0,len(testString)):
+            stringContent = testString[i]
+            if stringContent == '':
+                pass
+            elif first_element == 0:
+                last_url = url_ninja+url_element[i]+stringContent
+                first_element = first_element + 1
+            elif first_element != 0:
+                last_url = last_url+element_link+url_element[i]+stringContent
+            else:
+                last_url = "輸出錯誤"
+                break
 
 
-        poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
-        #print('1. {}, 2. {} 3. {} 4. {} 5. {} 6.{} '.format(skill,item,skillmode,keystone,allskill,weapon))
-        print(poe)
+
+        # poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
+        # print('1. {}, 2. {} 3. {} 4. {} 5. {} 6.{} '.format(skill,item,skillmode,keystone,allskill,weapon))
+        print(last_url)
+
 
 
 
@@ -73,6 +93,13 @@ https://poe.ninja/challenge/builds
 多重條件連結用&
 不同查詢條件使用:作區別,進程式後依照:切割條件,使用&做個別條件合併
 &合併後面的條件不需要以?作為前墜,?xxxx取代成&xxxx
+
+                skill = "?skill="+testString[0]
+                item = "item="+testString[1]
+                skillmode = "skillmode="+testString[2]
+                keystone = "keystone="+testString[3]
+                allskill = "allskill="+testString[4]
+                weapon = "weapon="+testString[5]
 """
 
 
