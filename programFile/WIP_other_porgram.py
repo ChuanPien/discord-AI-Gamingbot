@@ -9,15 +9,31 @@ class test:
         google = "https://www.google.com/search?q="+str(self.search.replace(" ","+"))
         return google
     def ninja(self):
-        testString = self.search.split(":")
-        skill = "?skill="+testString[0]
-        item = "item="+testString[1]
-        skillmode = "skillmode="+testString[2]
-        keystone = "keystone="+testString[3]
-        allskill = "allskill="+testString[4]
-        weapon = "weapon="+testString[5]
+        # 初始化 第一元素值
+        first_element = 0
+        # 初始化最終url
+        last_url =''
+        # 初始化流派(poe.ninja)url
+        url_ninja = 'https://poe.ninja/challenge/builds?'
+        # 建立元素列表
+        url_element = ["skill=","item=","skillmode=","keystone=","allskill=","weapon="]
+        # 建立元素連接符號
+        element_link = "&"
+        # 分割使用者輸入文字
+        user_input = self.search.split(":")
 
-
-        poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
-        return poe
+        for i in range(0,len(user_input)):
+            stringContent = user_input[i]
+            if stringContent == '':
+                pass
+            elif first_element == 0:
+                last_url = url_ninja+url_element[i]+stringContent
+                first_element = first_element + 1
+            elif first_element != 0:
+                last_url = last_url+element_link+url_element[i]+stringContent
+            else:
+                last_url = "輸出錯誤"
+                break
+            
+        return last_url
 

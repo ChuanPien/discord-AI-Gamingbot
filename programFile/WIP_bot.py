@@ -34,7 +34,10 @@ async def search(ctx, *,msg):
 # poe.ninja簡易查詢
 @bot.command()
 async def poesearch(ctx, *,msg):
-    Wop = WIP_other_porgram.test(msg)
+    if msg == 'help':
+        await ctx.send(f'此指令使用方法: 若該格無查詢目標則留空\n`poesearch 【skill:item:skillmode:keystone:allskill:weapon】')
+    else:
+        Wop = WIP_other_porgram.test(msg)
     print(Wop.ninja())
     await ctx.send(Wop.ninja())
 
