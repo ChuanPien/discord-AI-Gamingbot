@@ -11,6 +11,8 @@ class test:
     def ninja(self):
         # 初始化 第一元素值
         first_element = 0
+        # 使用者輸入空字串計數器
+        input_list_none_count = 0
         # 初始化最終url
         last_url =''
         # 初始化流派(poe.ninja)url
@@ -22,18 +24,23 @@ class test:
         # 分割使用者輸入文字
         user_input = self.search.split(":")
 
+        print(f'input = {user_input},{len(user_input)}')
+
         for i in range(0,len(user_input)):
             stringContent = user_input[i]
             if stringContent == '':
-                pass
-            elif first_element == 0:
+                input_list_none_count += 1
+            elif stringContent != '' and first_element == 0:
                 last_url = url_ninja+url_element[i]+stringContent
                 first_element = first_element + 1
-            elif first_element != 0:
+            elif stringContent != '' and first_element != 0:
                 last_url = last_url+element_link+url_element[i]+stringContent
             else:
                 last_url = "輸出錯誤"
+                print(input_list_none_count)
                 break
+        if input_list_none_count == len(user_input):
+            last_url = "請至少輸入一項查詢項目"
             
         return last_url
 
