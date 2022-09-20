@@ -5,3 +5,4 @@ the one try to make discord gaming AI bot
 
 ## 檔案組成
 其檔案分成
+**programFile** 與 **文件**
