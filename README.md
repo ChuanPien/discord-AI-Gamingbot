@@ -3,6 +3,9 @@
 
 the one try to make discord gaming AI bot 
 
+# 程式說明
+**這部分放置到**programFile中的README.md做說明部分
+
 ## 檔案組成
 其主要檔案分成
 **programFile** 與 **文件**
