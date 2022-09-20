@@ -3,6 +3,7 @@ import discord
 from discord.ext import commands
 import scipy as sp
 from core.classes import Cog_Extension,Global_Data
+import WIP_other_porgram
 # from WEB_REQUESTS.testPOEweb import testPOE
 
 class React(Cog_Extension):
@@ -27,6 +28,16 @@ class React(Cog_Extension):
         report_msg = Global_Data.search_reactMsg
         await ctx.send(report_msg)
     '''
+
+    # poe.ninja簡易查詢
+    @commands.command()
+    async def poesearch(self, ctx, *,msg):
+        Wop =""
+        if msg == 'help':
+            await ctx.send(f'此指令使用方法: 若該格無查詢目標則留空\n`poesearch 【skill:item:skillmode:keystone:allskill:weapon】')
+        else:
+            Wop = WIP_other_porgram.test(msg)
+        await ctx.send(Wop.ninja())
     
 
 def setup(bot):
