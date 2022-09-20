@@ -18,7 +18,7 @@ class test:
         # 初始化流派(poe.ninja)url
         url_ninja = 'https://poe.ninja/challenge/builds?'
         # 建立元素列表
-        url_element = ["skill=","item=","skillmode=","keystone=","allskill=","weapon="]
+        url_element = ["skill=","fire-trap-support=","item=","skillmode=","keystone=","allskill=","weapon="]
         # 建立元素連接符號
         element_link = "&"
         # 分割使用者輸入文字
