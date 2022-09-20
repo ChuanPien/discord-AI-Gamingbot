@@ -38,8 +38,7 @@ the one try to make discord gaming AI bot
 	- 讀取各功能程式的核心模塊
 
 3. /README.md
-
-	-就是你現在看到的這篇文檔,簡單介紹文件
+	- 就是你現在看到的這篇文檔,簡單介紹文件
 
 4. /programFil/WIP_bot
 	- 啟動bot的檔案,測試階段(掛著WIP)
