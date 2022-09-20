@@ -25,7 +25,7 @@ the one try to make discord gaming AI bot
 	+ WIP_other_porgram.py
 	+ official_setting.json
 + 文件
-	+ *各類文件夾* # 本專題小組的文件紀錄
+	+ *各類文件夾* 	# 本專題小組的文件紀錄
 + README.md
 
 > 以下將省略副檔名
