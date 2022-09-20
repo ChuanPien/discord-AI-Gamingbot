@@ -3,7 +3,7 @@
 
 the one try to make discord gaming AI bot 
 
-且如你所建,這是一個大學專題小項目,只是單純的紀錄這個過程
+且如你所見,這是一個大學專題小項目,只是單純的紀錄這個過程
 
 # 程式說明
 **這部分放置到**programFile中的 README.md 做細部說明
