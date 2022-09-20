@@ -27,8 +27,9 @@ class test:
         # debug
         print(f'input = {user_input},{len(user_input)}')
 
-        # 迴圈檢查input並輸出對應結果
+        # 檢查格式是否一致
         if len(user_input) == len(url_element):
+            # 迴圈檢查input並輸出對應結果
             for i in range(0,len(url_element)):
                 stringContent = user_input[i]
                 # 如果空值則讓計數器增加
