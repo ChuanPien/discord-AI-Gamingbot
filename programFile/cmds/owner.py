@@ -1,7 +1,6 @@
 import discord
 import json,asyncio, os
 from discord.ext import commands
-from matplotlib.pyplot import close
 from core.classes import Cog_Extension,Global_Func
 
 # @commands.is_owner() >> 辨別是否為擁有者

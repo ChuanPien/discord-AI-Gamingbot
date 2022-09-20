@@ -1,7 +1,5 @@
-from bitarray import test
 import discord
 from discord.ext import commands
-import scipy as sp
 from core.classes import Cog_Extension,Global_Data
 import WIP_other_porgram
 # from WEB_REQUESTS.testPOEweb import testPOE
