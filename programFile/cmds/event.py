@@ -17,7 +17,7 @@ class Event(Cog_Extension):
     #on_massage功能必須寫在同一處 不然會覆蓋
     async def on_message(self, msg):
         #設定傳送消息頻道
-        sendContentChannel = self.bot.get_channel(jdata['listen_test_channelID'])
+        sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
         #初始化，設定專用log頻道
         logChat = self.bot.get_channel(jdata['Log_chat'])
         #msg抓取初始化
@@ -39,10 +39,10 @@ class Event(Cog_Extension):
                     msg_f.log()
                     await logChat.send("－－－－－\n"+"ID: "+msg_f.getUserId()+"\nMsg: "+msg_f.getMsg()+"\n－－－－－")
                 else:
-                    print("\n\nError")
+                    print("非關鍵字 & 錯誤頻道，不記錄訊息")
             
         #傳送A群組文字頻道消息到B群組
-        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['Trans_test_channelID'] and msg.author != self.bot.user:
+        if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_test_channelID'] and msg.author != self.bot.user:
             #Debug
             #print(f'Fetched message: {msg}')
             #discord.Client.sniped_message = msg
