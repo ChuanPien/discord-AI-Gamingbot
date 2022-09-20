@@ -4,7 +4,7 @@
 the one try to make discord gaming AI bot 
 
 # 程式說明
-**這部分放置到**programFile中的README.md做說明部分
+**這部分放置到**programFile中的 README.md 做細部說明
 
 ## 檔案組成
 其主要檔案分成
