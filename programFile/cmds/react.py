@@ -34,8 +34,8 @@ class React(Cog_Extension):
     async def poesearch(self, ctx, *,msg):
         Wop =""
         if msg == 'help':
-            # skill:item:skillmode:keystone:allskill:weapon
-            await ctx.send(f'此指令使用方法: 若該格無查詢目標則留空\n`poesearch 【技能:道具:技能模式:keystone:allskill:武器】')
+            # skill:fire-trap-support:item:skillmode:keystone:allskill(代翻):weapon
+            await ctx.send(f'此指令使用方法: 若該格無查詢目標則留空\n`poesearch 【主技能:副技能:道具:技能模式:keystone:全技能:武器】')
         else:
             Wop = WIP_other_porgram.test(msg)
         await ctx.send(Wop.ninja())
