@@ -1,10 +1,8 @@
-from ctypes import sizeof
 import os 
 import json
 import datetime
-from xml.dom.minidom import Element
 
-from more_itertools import first, last
+
 
 #for filename in os.listdir('./cmds'):
 #    print(filename)
@@ -49,35 +47,53 @@ class test:
                 continue
             print("msg : "+str(msg[lists]))
     def ninja(self):
+        # 初始化 第一元素值
         first_element = 0
+        # 使用者輸入空字串計數器
         input_list_none_count = 0
-        last_url =''
+        # 初始化最終url
+        last_url = None
+        # 初始化流派(poe.ninja)url
         url_ninja = 'https://poe.ninja/challenge/builds?'
-        url_element = ["skill=","item=","skillmode=","keystone=","allskill=","weapon="]
+        # 建立元素列表
+        url_element = ["skill=","fire-trap-support=","item=","skillmode=","keystone=","allskill=","weapon="]
+        # 建立元素連接符號
         element_link = "&"
-        testString = self.search.split(":")
+        # 分割使用者輸入文字
+        user_input = self.search.split(":")
 
-        print(testString,len(testString))
+        # debug
+        print(f'input = {user_input},{len(user_input)}')
 
-        for i in range(0,len(url_element)):
-            stringContent = testString[i]
-            if stringContent == '':
-                input_list_none_count += 1
-            elif stringContent != '' and first_element == 0:
-                last_url = url_ninja+url_element[i]+stringContent
-                first_element = first_element + 1
-            elif stringContent != '' and first_element != 0:
-                last_url = last_url+element_link+url_element[i]+stringContent
-            else:
-                last_url = "輸出錯誤"
-                break
-        if input_list_none_count == len(testString):
+        # 檢查格式是否一致
+        if len(user_input) == len(url_element):
+            # 迴圈檢查input並輸出對應結果
+            for i in range(0,len(url_element)):
+                stringContent = user_input[i]
+                # 如果空值則讓計數器增加
+                if stringContent == '':
+                    input_list_none_count += 1
+                # 不是空值且是第一個條件
+                elif stringContent != '' and first_element == 0:
+                    last_url = url_ninja+url_element[i]+stringContent
+                    # 第一條件計數器+1
+                    first_element = first_element + 1
+                # 非第一條件時合併其他條件
+                elif stringContent != '' and first_element != 0:
+                    last_url = last_url+element_link+url_element[i]+stringContent
+                else:
+                    last_url = "輸出錯誤"
+                    print(input_list_none_count)
+                    break
+        else:
+            last_url = "錯誤的格式或其他未知錯誤"
+        if input_list_none_count == len(user_input):
             last_url = "請至少輸入一項查詢項目"
 
 
         # poe = "https://poe.ninja/challenge/builds"+skill+"&"+item+"&"+skillmode+"&"+keystone+"&"+allskill+"&"+weapon
         # print('1. {}, 2. {} 3. {} 4. {} 5. {} 6.{} '.format(skill,item,skillmode,keystone,allskill,weapon))
-        print(last_url)
+        return str(last_url)
 
 
 
