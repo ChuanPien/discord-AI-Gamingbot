@@ -34,7 +34,6 @@ class Event(Cog_Extension):
         if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user and msg.author.name == "must505":
             await msg.channel.send('Hello!')
 
-        if msg_content == 'poesearch' 
         #測試log運作
         if msg.author != self.bot.user:
             for mf in msgFormat:
