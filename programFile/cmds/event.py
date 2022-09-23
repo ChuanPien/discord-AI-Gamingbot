@@ -16,6 +16,10 @@ class Event(Cog_Extension):
     @commands.Cog.listener()
     #on_massage功能必須寫在同一處 不然會覆蓋
     async def on_message(self, msg):
+        # 開頭原始訊息站存
+        msg_content = ""
+        # 關鍵字列表
+        msg_prokey = ['Test','test']
         #設定傳送消息頻道
         sendContentChannel = self.bot.get_channel(jdata['Trans_channelID'])
         #初始化，設定專用log頻道
@@ -24,10 +28,13 @@ class Event(Cog_Extension):
         if msg.author != self.bot.user:
             msgFormat = msg.content
             msgFormat = msgFormat.split(" ")
-            print(msgFormat)
+            msg_content = msgFormat[0]
+            print(msgFormat,msg_content)
         #測試用指令
         if msg.content == 'Test' or msg.content == 'test' and msg.author != self.bot.user and msg.author.name == "must505":
             await msg.channel.send('Hello!')
+
+        if msg_content == 'poesearch' 
         #測試log運作
         if msg.author != self.bot.user:
             for mf in msgFormat:
@@ -40,6 +47,7 @@ class Event(Cog_Extension):
                     await logChat.send("－－－－－\n"+"ID: "+msg_f.getUserId()+"\nMsg: "+msg_f.getMsg()+"\n－－－－－")
                 else:
                     print("非關鍵字 & 錯誤頻道，不記錄訊息")
+                    break
             
         #傳送A群組文字頻道消息到B群組
         if msg.channel.id == jdata['listen_channelID'] or msg.channel.id == jdata['listen_test_channelID'] and msg.author != self.bot.user:
