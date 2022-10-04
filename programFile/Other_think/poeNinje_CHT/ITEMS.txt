@@ -1,0 +1,1513 @@
+Watcher's Eye = 看守之眼
+
+Forbidden Flame = 禁忌烈焰
+
+Forbidden Flesh = 禁忌血肉
+
+Bottled Faith = 瓶中信仰
+
+Brutal Restraint = 殘酷的紀律
+
+Aegis Aurora = 幻芒聖盾
+
+Lethal Pride = 致命的驕傲
+
+Dying Sun = 滅日
+
+Thread of Hope = 希望之絃
+
+Impossible Escape = 逃脫不能
+
+Ashes of the Stars = 星塵
+
+Unnatural Instinct = 神感
+
+Mageblood = 魔血
+
+Militant Faith = 激進的信仰
+
+Melding of the Flesh = 血肉融合
+
+Crystallised Omniscience = 晶化全知
+
+Skin of the Lords = 君主之膚
+
+Legacy of Fury = 傳承憤怒
+
+Mantra of Flames = 烈炎之兆
+
+Intuitive Leap = 直覺之躍
+
+Headhunter = 獵首
+
+Taste of Hate = 恨意
+
+Inspired Learning = 求知的熱情
+
+Glorious Vanity = 輝煌的虛榮
+
+Split Personality = 人格分裂
+
+Replica Conqueror's Efficiency = 贗品．征服者的迅捷
+
+Ventor's Gamble = 賭神芬多
+
+Doryani's Prototype = 多里亞尼之型
+
+Atziri's Promise = 阿茲里的諾言
+
+The Annihilating Light = 毀滅白光
+
+Megalomaniac = 妄想症
+
+Prism Guardian = 元素的庇護
+
+Rumi's Concoction = 魯米的靈藥
+
+Grand Spectrum = 巨光譜
+
+Conqueror's Efficiency = 征服者的迅捷
+
+Elegant Hubris = 優雅的高傲
+
+Perseverance = 恆毅意志
+
+Sin Trek = 敏銳思維
+
+Voices = 嗓音
+
+Olroth's Resolve = 奧爾羅斯的決心
+
+Heartbound Loop = 結魂之環
+
+Coruscating Elixir = 閃耀精華
+
+Crown of the Inward Eye = 暗眼之冠
+
+Survival Secrets = 生存秘技
+
+Goldwyrm = 龍炎足跡
+
+Energy From Within = 潛能防護
+
+To Dust = 塵埃落定
+
+The Interrogation = 審問
+
+Cinderswallow Urn = 噬燼甕
+
+The Brass Dome = 堅銅戰罩
+
+Shaper's Touch = 塑者之觸
+
+Asenath's Gentle Touch = 安賽娜絲的安撫之語
+
+Darkness Enthroned = 夜惡降臨
+
+Rain of Splinters = 碎鏃雨
+
+The Devouring Diadem = 吞噬之冠
+
+Black Sun Crest = 黑陽之冠
+
+Polaric Devastation = 極地毀滅
+
+Victario's Influence = 維多里奧之絕響
+
+Mark of the Elder = 尊師之印
+
+Shavronne's Wrappings = 薛朗的護身長袍
+
+The Ascetic = 苦行
+
+Conqueror's Potency = 征服者的力量
+
+Dyadian Dawn = 戴亞迪安的晨曦
+
+Divination Distillate = 寶視精華
+
+Sadima's Touch = 獵寶者的護手
+
+Kiara's Determination = 奇亞拉的決心
+
+Void Battery = 潛能魔棒
+
+Crown of Eyes = 邪眼之冠
+
+The Jinxed Juju = 惡咒護符
+
+Fortress Covenant = 堅壁誓約
+
+Call of the Brotherhood = 意志呼喚
+
+Survival Instincts = 生存本能
+
+Aul's Uprising = 奧爾的崛起
+
+Clear Mind = 理智
+
+Transcendent Mind = 超凡之意
+
+Presence of Chayula = 夏烏拉之印
+
+Redblade Banner = 紅刃旗幟
+
+Incandescent Heart = 烈炎之心
+
+Viridi's Veil = 維里迪的薄紗
+
+The Stampede = 潰逃之靴
+
+Darkray Vectors = 暗雷
+
+Matua Tupuna = 遠祖之顱
+
+The Eternal Struggle = 罪孽嗜者之示
+
+Ephemeral Edge = 影殞
+
+Hands of the High Templar = 聖宗神手
+
+Death Rush = 亡者呼喚
+
+Death's Oath = 冥使之體
+
+Hyrri's Ire = 西里的戰衣
+
+Badge of the Brotherhood = 激情之章
+
+Impresence = 不在場證明
+
+Greed's Embrace = 貪婪之擁
+
+The Iron Fortress = 鋼鐵壁壘
+
+The Writhing Jar = 扭曲之罐
+
+Farrul's Fur = 費爾羅羽衣
+
+Vaal Caress = 瓦爾的靈手
+
+Skin of the Loyal = 忠誠之膚
+
+Alpha's Howl = 極地之嗥
+
+Fertile Mind = 豐富心靈
+
+The Covenant = 血誓
+
+Ralakesh's Impatience = 芮勒蓋許的急躁
+
+The Overflowing Chalice = 滿溢聖杯
+
+Nebulis = 銀河星雲
+
+Winterweave = 冬織
+
+Replica Alberon's Warpath = 贗品．阿爾貝隆的征途
+
+The Squire = 大地主
+
+Astramentis = 均衡之符
+
+Rotgut = 傷胃酒
+
+Circle of Guilt = 愧疚之環
+
+Arakaali's Fang = 艾爾卡莉之牙
+
+Inertia = 慣性
+
+Yoke of Suffering = 磨難之軛
+
+Lion's Roar = 獅吼精華
+
+Ungil's Harmony = 恩吉爾的和諧
+
+Hazardous Research = 危機學
+
+Eyes of the Greatwolf = 巨狼之眼
+
+The Anima Stone = 聚魂石
+
+Ancient Skull = 遠古骷髏
+
+Circle of Fear = 恐懼之環
+
+Bated Breath = 凝息
+
+Mark of the Shaper = 塑者之印
+
+Lioneye's Fall = 獅眼的隕落
+
+Brawn = 筋骨強化
+
+Circle of Nostalgia = 懷舊之環
+
+Hand of Wisdom and Action = 智行之手
+
+Vivinsect = 寄生惡魔
+
+The Pandemonius = 群魔殿
+
+Natural Affinity = 天性
+
+Thunderfist = 轟天雷
+
+Sublime Vision = 崇高願景
+
+Amanamu's Gaze = 阿姆那姆的邪眼
+
+Paradoxica = 矛盾對決
+
+The Magnate = 堅毅之環
+
+Abyssus = 深淵之喚
+
+Replica Voidwalker = 贗品．虛空行者
+
+Corpsewalker = 行屍走肉
+
+Atziri's Reflection = 阿茲里的映照
+
+Atziri's Step = 阿茲里的金履
+
+Shadows and Dust = 沙塵之影
+
+Esh's Mirror = 艾許之鏡
+
+Ryslatha's Coil = 瑞斯拉薩之纏
+
+The Wise Oak = 哲櫟
+
+Healthy Mind = 靈體轉換
+
+Leadership's Price = 領導力的代價
+
+Malachai's Loop = 輪迴
+
+Voidwalker = 虛空行者
+
+Brute Force Solution = 蠻力衝撞
+
+The Golden Rule = 黃金守則
+
+Heatshiver = 寒焰
+
+Soul Ripper = 碎魂者
+
+Arn's Anguish = 昂恩的煩惱
+
+Kaom's Spirit = 岡姆之魂
+
+Chitus' Apex = 切特斯的威權
+
+Forbidden Taste = 禁果
+
+The Supreme Truth = 無上箴言
+
+Inpulsa's Broken Heart = 印卜薩的心碎
+
+Transcendent Spirit = 超凡之靈
+
+Quickening Covenant = 復甦誓約
+
+Emperor's Vigilance = 帝王的戒心
+
+Icefang Orbit = 冰風軌跡
+
+Asenath's Mark = 安賽娜絲的迅敏之冠
+
+Dialla's Malefaction = 達拉的罪刑
+
+Fractal Thoughts = 異想
+
+Oskarm = 厄斯根
+
+Solstice Vigil = 守夜之至
+
+Obliteration = 抹滅
+
+Bisco's Leash = 畢斯寇繫帶
+
+Primordial Might = 先祖力量
+
+Call of the Void = 虛空呼喚
+
+Seething Fury = 沸騰之怒
+
+Mask of the Tribunal = 審判莊嚴
+
+Replica Emberwake = 贗品．餘燼之痕
+
+String of Servitude = 奴役之索
+
+Dawnbreaker = 破曉
+
+Circle of Anguish = 煎熬之環
+
+Mahuxotl's Machination = 瑪哈薩多的陰謀
+
+Maloney's Mechanism = 馬洛尼的機關
+
+Algor Mortis = 阿爾戈．莫堤斯
+
+The Vertex = 謎容
+
+Perandus Signet = 普蘭德斯之記
+
+Fluid Motion = 流暢行動
+
+Primordial Harmony = 先祖和諧
+
+The Ivory Tower = 象牙塔
+
+Kaom's Heart = 岡姆的壯志
+
+Emperor's Might = 帝王的霸權
+
+Ming's Heart = 明恩的慧心
+
+Obscurantis = 朦朧詭面
+
+Emperor's Wit = 帝王的智慧
+
+Garukhan's Flight = 卡洛翰之影
+
+Hrimsorrow = 冰冷之眼
+
+Asphyxia's Wrath = 冰靈之吼
+
+The Poised Prism = 優雅迷鏡
+
+The Red Nightmare = 赤影夢魘
+
+Blackflame = 黯炎
+
+Iron Commander = 鋼鐵指揮
+
+Replica Last Resort = 贗品．終息
+
+Lavianga's Spirit = 拉維安加之泉
+
+Replica Dreamfeather = 贗品．幻夢飛羽
+
+Replica Farrul's Fur = 贗品．費爾羅羽衣
+
+Immortal Flesh = 永生
+
+Coward's Legacy = 懦夫的遺產
+
+Shavronne's Revelation = 薛朗的啟示之環
+
+Devoto's Devotion = 德沃托的信念之盔
+
+The Torrent's Reclamation = 奔流之開拓
+
+Primordial Eminence = 先祖卓越
+
+Snakebite = 蝮吻
+
+Atziri's Foible = 阿茲里聖徽
+
+Vessel of Vinktar = 維克塔血器
+
+Cold Iron Point = 寒鋼之刃
+
+The Poet's Pen = 學富之筆
+
+Sin's Rebirth = 再生的罪惡
+
+Efficient Training = 充分訓練
+
+Gloomfang = 憂愁獠根
+
+Cyclopean Coil = 巨岩之環
+
+Transcendent Flesh = 超凡之體
+
+Replica Hotheaded = 贗品．腦衝
+
+The Taming = 元素之章
+
+Haemophilia = 逆凝之血
+
+Singularity = 奇異
+
+Aurseize = 富貴之運
+
+Indigon = 地印之環
+
+Blood of the Karui = 卡魯之血
+
+Triad Grip = 三弦指法
+
+Carcass Jack = 致命之體
+
+Queen of the Forest = 森林之后
+
+Gravebind = 幽墓束縛
+
+Kalandra's Touch = 卡蘭德之觸
+
+Saffell's Frame = 薩費爾的智慧
+
+Replica Headhunter = 贗品．獵首
+
+Leper's Alms = 痲瘋的醫款
+
+Essence Worm = 菁華蠕蟲
+
+Geofri's Crest = 吉爾菲的榮光
+
+Careful Planning = 審慎計畫
+
+Fleshcrafter = 人體匠師
+
+Darkscorn = 夜吟
+
+Elixir of the Unbroken Circle = 不破環之靈藥
+
+Uul-Netol's Vow = 烏爾尼多之誓
+
+Emperor's Mastery = 帝王的純熟
+
+Rathpith Globe = 獻祭之心
+
+Briskwrap = 荒途
+
+Vixen's Entrapment = 雌狐的圈套
+
+Replica Frostbreath = 贗品．霜息
+
+Dissolution of the Flesh = 血肉溶解
+
+Sentari's Answer = 山特立的回應
+
+March of the Legion = 軍閥行軍
+
+Replica Soul Tether = 贗品．靈魂束縛
+
+Valako's Sign = 瓦拉庫之印
+
+Ring of Blades = 環形刃
+
+Cloak of Defiance = 衛道之袍
+
+Mjölner = 沉默之雷
+
+Rolling Flames = 滾動烈焰
+
+The Gull = 鷗喙
+
+Doryani's Invitation = 多里亞尼之約
+
+Clayshaper = 塑泥者
+
+Might of the Meek = 儒子可教
+
+Dance of the Offered = 奉獻之舞
+
+Rise of the Phoenix = 烈炎之翼
+
+Memory Vault = 回憶寶庫
+
+Dead Reckoning = 死亡清算
+
+Windscream = 惡風足跡
+
+The Sorrow of the Divine = 神聖哀悼
+
+Eber's Unification = 希伯的統治
+
+Loreweave = 智者織衫
+
+Replica Kaom's Heart = 贗品．岡姆的壯志
+
+Pure Talent = 純才
+
+Cane of Kulemak = 骷髏馬克的靈杖
+
+Relic of the Pact = 古典冥約
+
+Calamitous Visions = 悲慘幻視
+
+Leash of Oblation = 祭品之繫
+
+Magna Eclipsis = 堅毅之蝕
+
+Glimpse of Chaos = 混沌一瞥
+
+The Burden of Truth = 真理負擔
+
+Stranglegasp = 扼殺之息
+
+Starlight Chalice = 星光聖杯
+
+Xoph's Blood = 索伏之血
+
+Witchfire Brew = 巫火秘釀
+
+Soul Mantle = 祖靈之約
+
+Berek's Respite = 貝雷克的火與雷之樂
+
+The Whispering Ice = 冰點低語
+
+Self-Flagellation = 殘虐之歡愉
+
+Perepiteia = 極轉電刑
+
+Maw of Mischief = 頑皮裂齒獸
+
+Marylene's Fallacy = 瑪莉琳的護體之符
+
+Slavedriver's Hand = 奴役之手
+
+Doppelgänger Guise = 達佩爾甘格偽裝
+
+Ghostwrithe = 鬧鬼
+
+Brutus' Lead Sprinkler = 布魯特斯的刑具
+
+Skyforth = 空向
+
+Energised Armour = 能量堅甲
+
+Replica Pure Talent = 贗品．純才
+
+The Surrender = 降伏
+
+Kikazaru = 基加薩魯
+
+Profane Proxy = 褻瀆之替
+
+Storm Secret = 風暴之密
+
+Anatomical Knowledge = 真知灼見
+
+Soulthirst = 嗜魂
+
+Replica Doedre's Damning = 贗品．德瑞的魔具
+
+Dream Fragments = 夢語之痕
+
+Alberon's Warpath = 阿爾貝隆的征途
+
+Replica Atziri's Foible = 贗品．阿茲里聖徽
+
+Seven-League Step = 盟誓之跡
+
+Forbidden Shako = 禁忌軍帽
+
+Breathstealer = 偷息
+
+Southbound = 南方
+
+Emperor's Cunning = 帝王的詭計
+
+Lord of Steel = 鋼鐵君主
+
+One With Nothing = 一無所有
+
+Lori's Lantern = 羅里的幸運之燈
+
+The Hungry Loop = 惡鬼轉世
+
+Pyre = 燃焰
+
+Daresso's Defiance = 德瑞索的衛衣
+
+Replica Stampede = 贗品．潰逃之靴
+
+United in Dream = 合流夢寐
+
+The Saviour = 救世主
+
+Hyrri's Truth = 西里的真理
+
+Le Heup of All = 英靈寶環
+
+Cherrubim's Maleficence = 薛魯賓的惡作劇
+
+Precursor's Emblem = 先引之征
+
+Elevore = 愛勒弗
+
+Tavukai = 狂靈之怒
+
+The Ephemeral Bond = 短期債券
+
+Doedre's Damning = 德瑞的魔具
+
+Replica Abyssus = 贗品．深淵之喚
+
+Rainbowstride = 虹幕
+
+Astral Projector = 星空之影
+
+Auxium = 奧術之符
+
+The Pariah = 草民
+
+Graven's Secret = 格雷文的秘密
+
+Lioneye's Vision = 獅眼的視線
+
+Olesya's Delight = 奧莉西亞的喜悅
+
+Hidden Potential = 深藏的潛能
+
+Soul Catcher = 追魂者
+
+Storm's Gift = 風暴之贈
+
+The Dark Seer = 黯黑賢者
+
+The Scourge = 災害
+
+Hinekora's Sight = 悉妮蔻拉之眼
+
+Carnage Heart = 屠戮之心
+
+Cloak of Flame = 烈炎之袍
+
+Wyrmsign = 龍族印記
+
+Windripper = 裂風
+
+Sire of Shards = 破碎傳承者
+
+Ichimonji = 一文字
+
+Doedre's Elixir = 德瑞的妙藥
+
+Null and Void = 虛空
+
+Reckless Defence = 魯莽防禦
+
+Bisco's Collar = 畢斯寇的項圈
+
+Dendrobate = 箭毒蛙
+
+Command of the Pit = 闇核號令
+
+Lightning Coil = 雷語
+
+Kitava's Teachings = 奇塔弗的教學
+
+Mind of the Council = 議會之心
+
+Doryani's Delusion = 多里亞尼的幻想
+
+Berek's Grip = 貝雷克的冰與雷之曲
+
+Perandus Blazon = 普蘭德斯之印
+
+Rime Gaze = 酷寒的凝視
+
+Star of Wraeclast = 瓦爾克拉斯之星
+
+Perquil's Toe = 珀奎爾的指頭
+
+Poacher's Aim = 盜獵者的準心
+
+Rotblood Promise = 敗血承諾
+
+Bronn's Lithe = 布隆的影衣
+
+The Siege = 圍城
+
+Kingmaker = 王者之刃
+
+Tinkerskin = 焊匠之膚
+
+The Embalmer = 福馬林
+
+Willclash = 意志衝突
+
+Snakepit = 蛇巢
+
+Echoes of Creation = 創造迴聲
+
+Sunblast = 日炎
+
+Light of Lunaris = 月影之耀
+
+Goldrim = 金縷帽
+
+Replica Shroud of the Lightless = 贗品．晦暗的屍布
+
+Replica Rumi's Concoction = 贗品．魯米的靈藥
+
+Tabula Rasa = 無盡之衣
+
+Grip of the Council = 議會之握
+
+Doedre's Skin = 德瑞之膚
+
+Abhorrent Interrogation = 悖逆審訊
+
+Gifts from Above = 神賜
+
+Hotheaded = 腦衝
+
+Eye of Malice = 邪眼
+
+Surgebinders = 浪湧縛者
+
+Martyr of Innocence = 烈士之淨
+
+Saqawal's Nest = 斯卡沃之巢
+
+The Broken Crown = 缺角帝冠
+
+Fight for Survival = 存戰
+
+Combat Focus = 專精作戰
+
+The Consuming Dark = 蠶食之闇
+
+Replica Reckless Defence = 贗品．魯莽防禦
+
+Coated Shrapnel = 榴星
+
+Demon Stitcher = 縫魔
+
+Bear's Girdle = 熊之束
+
+Maligaro's Virtuosity = 馬雷葛蘿的血染手套
+
+Scold's Bridle = 禁語
+
+Galesight = 風視
+
+Quill Rain = 驟雨之弦
+
+The Fulcrum = 支點
+
+Replica Siegebreaker = 贗品．突圍
+
+The Dancing Dervish = 狂舞德爾維希
+
+Replica Inya's Epiphany = 贗品．茵雅的頓悟
+
+Ascent From Flesh = 血軀昇華
+
+Karui Ward = 卡魯的戰徽
+
+Fragile Bloom = 脆弱的繁華
+
+Shackles of the Wretched
+
+Conqueror's Longevity = 征服者的長生
+
+Esh's Visage = 艾許之面
+
+Tremor Rod = 顫抖之杖
+
+Dusktoe = 迎暮
+
+The Green Nightmare = 青影夢魘
+
+Prismatic Eclipse = 虹耀之月
+
+Shadowstitch = 縫影
+
+Vorana's Preparation = 沃拉娜的醞釀
+
+The Wasp Nest = 蜂巢浪湧
+
+Cane of Unravelling = 初惡枝枒
+
+Spreading Rot = 拓蝕
+
+Replica Grip of the Council = 贗品．議會之握
+
+Aurumvorax = 靈護
+
+Voideye = 虛空慧眼
+
+Starkonja's Head = 斯塔空加之首
+
+Hair Trigger = 髮閘機關
+
+Voidforge = 核虛
+
+The Restless Ward = 無盡之衛
+
+Rat's Nest = 鼠巢
+
+Lioneye's Glare = 獅眼的戰弓
+
+Andvarius = 貪慾之記
+
+Atziri's Reign = 阿茲里之權
+
+Sporeguard = 毒孢守衛
+
+Nadir Mode = 深淵模式
+
+Replica Iron Commander = 贗品．鋼鐵指揮
+
+Chains of Command = 統帥之鏈
+
+Apex Mode = 巔峰模式
+
+Pledge of Hands = 誓約
+
+Belt of the Deceiver = 狡徒束腰
+
+Kaom's Roots = 岡姆的穩重之靴
+
+Doedre's Tenure = 德瑞的精神手套
+
+The Primordial Chain = 先祖羈絆
+
+Siegebreaker = 突圍
+
+Crest of Desire = 慾望之冠
+
+Three-step Assault = 三步突擊
+
+Facebreaker = 毀面者
+
+Blunderbore = 失誤之孔
+
+Kintsugi = 金繕
+
+Pillar of the Caged God = 囚神杵
+
+The Fledgling = 幼雛
+
+Bubonic Trail = 布巴尼克的線索
+
+Circle of Regret = 遺憾之環
+
+Machina Mitts = 詭計魔手
+
+Replica Cold Iron Point = 贗品．寒鋼之刃
+
+Voidfletcher = 虛眼箭矢
+
+The Front Line = 前列的線
+
+Daresso's Courage = 德瑞索的勇者之盾
+
+The Three Dragons = 三龍戰紀
+
+Expedition's End = 遠征之盡
+
+The Eternity Shroud = 永恆屍布
+
+Timeclasp = 時光之握
+
+Fenumus' Shroud = 菲恩絲魘甲
+
+Marohi Erqi = 爾奇的巨靈之錘
+
+Belly of the Beast = 獸腹
+
+Stasis Prison = 靜止牢籠
+
+Heretic's Veil = 異教面紗
+
+Hrimnor's Resolve = 雷姆諾的豪情
+
+The Queen's Hunger = 女王的渴望
+
+Mark of the Red Covenant = 焰首支環
+
+Assailum = 刺殺
+
+Blightwell = 枯井
+
+Hateforge = 怨恨鍛造
+
+Chains of Emancipation = 解放鏈
+
+The Hidden Blade = 隱藏之劍
+
+Atziri's Splendour = 阿茲里的威權
+
+Warped Timepiece = 扭曲之鐘
+
+Crown of the Tyrant = 堂皇冠冕
+
+Replica Maloney's Mechanism = 贗品．馬洛尼的機關
+
+Font of Thunder = 雷霆聖器
+
+Choir of the Storm = 暴風之語
+
+Piscator's Vigil = 皮斯卡托的慧眼
+
+Zeel's Amplifier = 薩爾的揚音
+
+Wheel of the Stormsail = 暴雨之舵
+
+Voll's Vision = 福爾的遠見
+
+Unending Hunger = 無盡飢餓
+
+The Coming Calamity = 災難臨頭
+
+Deerstalker = 獵蹤
+
+Lioneye's Remorse = 獅眼的榮耀之盾
+
+Triumvirate Authority = 三體權威
+
+Assassin's Haste = 刺殺者迷影
+
+Flesh and Spirit = 肉體與魂靈
+
+Voidbringer = 虛空之力
+
+Kalisa's Grace = 卡莉莎的優雅之影
+
+Inya's Epiphany = 茵雅的頓悟
+
+Olroth's Charge = 奧爾羅斯的衝刺
+
+Tombfist = 陵拳
+
+Saqawal's Winds = 斯卡沃之翼
+
+Thief's Torment = 竊罪
+
+Wondertrap = 迴光之跡
+
+The Highwayman = 高尚之人
+
+Skirmish = 小會戰
+
+Infernal Mantle = 煉獄之心
+
+Replica Mistwall = 贗品．迷霧之璧
+
+Doedre's Scorn = 德瑞的蔑視
+
+Shimmeron = 低伏微光
+
+The Searing Touch = 熾炎之使
+
+Cerberus Limb = 獄犬殘肢
+
+Atziri's Acuity = 阿茲里的捷思
+
+Kaom's Sign = 岡姆的遠見
+
+Soul Ascension = 靈魂昇華
+
+Death's Door = 死亡大門
+
+Vaal Sentencing = 瓦爾之訴
+
+Brightbeak = 光耀之錘
+
+Saqawal's Talons = 斯卡沃鷹爪
+
+Replica Hyrri's Truth = 贗品．西里的真理
+
+Shroud of the Lightless = 晦暗的屍布
+
+Thrillsteel = 顫慄之鋼
+
+Victario's Charity = 維多里奧的貢獻
+
+Meginord's Vise = 梅吉諾德的巨力腕甲
+
+Eldritch Knowledge = 異能知識
+
+Victario's Flight = 維多里奧的飛昇
+
+Mindspiral = 靈漩
+
+Lioneye's Paws = 獅眼的鬥志
+
+Replica Voideye = 贗品．虛空慧眼
+
+Replica Fragile Bloom = 贗品．脆弱的繁華
+
+Moonsorrow = 泣月
+
+Replica Alpha's Howl = 贗品．極地之嗥
+
+Thousand Ribbons = 千縷
+
+Oro's Sacrifice = 歐羅的貢品
+
+Mark of Submission = 臣服之記
+
+Replica Volkuur's Guidance = 贗品．福庫爾的指引
+
+Grelwood Shank = 沃德步伐
+
+Zerphi's Heart = 澤佛伊之心
+
+Willowgift = 柳木之禮
+
+Prismweave = 幻彩菱織
+
+Saqawal's Flock = 斯卡沃之徒
+
+The Black Cane = 黑藤
+
+White Wind = 白風
+
+Cospri's Will = 卡斯普里意志
+
+Lavianga's Wisdom = 拉維安加的智慧
+
+Meginord's Girdle = 梅吉諾德的力量泉源
+
+Painseeker = 尋苦
+
+Pyroshock Clasp = 烈焰衝擊鉤
+
+Zahndethus' Cassock = 札德圖斯的聖衣
+
+Geofri's Sanctuary = 吉爾菲的聖殿
+
+Kitava's Thirst = 奇塔弗之渴望
+
+Maw of Conquest = 雛鳥之征
+
+Duskdawn = 宵曉
+
+Inevitability = 必然
+
+Coralito's Signature = 克拉里多的名印
+
+The Anvil = 信念之砧
+
+The Red Dream = 赤影夢境
+
+The Baron = 男爵
+
+Rigwald's Curse = 瑞佛詛咒
+
+Vulconus = 祝融鍛冶
+
+The Brine Crown = 海王冠冕
+
+Steppan Eard = 絕地魔履
+
+Advancing Fortress = 超越壁壘
+
+Empire's Grasp = 帝國之掌
+
+The Oppressor = 壓迫者
+
+Brinerot Whalers = 布琳洛特岸行者
+
+Survival Skills = 生存技巧
+
+Bloodgrip = 鮮血支配
+
+Frostbreath = 霜息
+
+Voll's Devotion = 福爾的忠誠之符
+
+Tidebreaker = 破浪者
+
+Shaper's Seed = 塑界者之籽
+
+Hiltless = 長卷
+
+Divine Inferno = 神聖煉獄
+
+Torchoak Step = 火柳之步
+
+Replica Perfect Form = 贗品．完美姿態
+
+Hopeshredder = 破滅之希
+
+Usurper's Penance = 篡位者的懺悔
+
+Lycosidae = 狼蛛
+
+Doomfletch = 滅世
+
+Static Electricity = 靜電之源
+
+Invictus Solaris = 堅毅日耀
+
+Veruso's Battering Rams = 維盧梭攻城槌
+
+Winterheart = 冬之心
+
+Temptation Step = 誘惑步伐
+
+Allure = 魅惑
+
+Maligaro's Cruelty = 馬雷葛蘿的殘暴
+
+Bloodbond = 血肉結合
+
+Replica Restless Ward = 贗品．無盡之衛
+
+Bitterdream = 苦夢
+
+Apep's Rage = 艾普之怒
+
+Vix Lunaris = 波動月影
+
+Stormfire = 烈風暴
+
+Skullhead = 光輝之顱
+
+Sibyl's Lament = 希比爾之嘆
+
+The Blue Nightmare = 碧影夢魘
+
+Soulwrest = 鑄影
+
+The Red Trail = 赤紅蹤跡
+
+Oni-Goroshi = 西拉氣流殺
+
+Curtain Call = 華麗閉幕
+
+Ancient Waystones = 遠古基石
+
+Gang's Momentum = 剛勇
+
+Kongming's Stratagem = 孔明的神算
+
+Victario's Acuity = 維多里奧的捷思
+
+The Eternal Apple = 永恆的蘋果
+
+Kingsguard = 皇家衛甲
+
+Endless Misery = 無盡謎團
+
+Farrul's Pounce = 費爾羅鋒爪
+
+Honourhome = 私慾的光輝
+
+Venopuncture = 脈絡針刺
+
+The Formless Inferno = 無形煉獄
+
+Might and Influence = 強權之勢
+
+Replica Lavianga's Spirit = 贗品．拉維安加之泉
+
+Replica Soul Taker = 贗品．開膛斧
+
+Offering to the Serpent = 蛇皮獻祭
+
+Soul Taker = 開膛斧
+
+Soul Tether = 靈魂束縛
+
+Doryani's Fist = 多里亞尼之拳
+
+Lochtonial Caress = 意識之緣
+
+Mokou's Embrace = 莫考之擁
+
+Replica Eternity Shroud = 贗品．永恆屍布
+
+Replica Winterheart = 贗品．冬之心
+
+Martial Artistry = 武藝之相
+
+Storm Prison = 禁錮暴風
+
+Gluttony = 貪食腰
+
+Flamesight = 炎視
+
+Redbeak = 赤紅短刃
+
+Gruthkul's Pelt = 葛魯斯寇真皮
+
+Ngamahu's Sign = 拿瑪乎之印
+
+Hyperboreus = 極地束腹
+
+Farrul's Bite = 費爾羅咥喙
+
+Axiom Perpetuum = 歷史公理
+
+Leer Cast = 共鳴之面
+
+Apep's Supremacy = 艾普霸權
+
+Doon Cuebiyari = 黑鋼
+
+The Immortal Will = 不朽之意志
+
+Voltaxic Rift = 魔暴之痕
+
+Replica Duskdawn = 贗品．宵曉
+
+Abberath's Hooves = 艾貝拉斯之蹄
+
+Rearguard = 寒鋒之衛
+
+The Tempest's Liberation = 暴雨之解放
+
+Atziri's Rule = 阿茲里的統御	
+
+Kaltenhalt = 冰霜之鏡
+
+Praxis = 普拉克斯
+
+Fairgraves' Tricorne = 費爾之帽
+
+Femurs of the Saints = 聖徒脛骨
+
+Hegemony's Era = 霸權時代
+
+Jack, the Axe = 劊子手．傑克
+
+The Green Dream = 青影夢境
+
+Volkuur's Guidance = 福庫爾的指引
+
+Great Old One's Tentacles = 偉大老者之觸
+
+The Blood Reaper = 竭血之鐮
+
+Ahn's Heritage = 漢恩的遺產
+
+Night's Hold = 夜守
+
+Ylfeban's Trickery = 伊芙班的詭計
+
+The Screaming Eagle = 鷹嘯
+
+Replica Karui Ward = 贗品．卡魯的戰徽
+
+Replica Advancing Fortress = 贗品．超越壁壘
+
+The Vigil = 監視守夜
+
+Lifesprig = 生機之記
+
+Great Old One's Ward = 邪神庇護
+
+The Rippling Thoughts = 漣漪冥想
+
+Rigwald's Quills = 瑞佛之羽
+
+Blood of Corruption = 墮落之血
+
+Yaomac's Accord = 堯馬克之權
+
+Ungil's Gauche = 恩吉爾的叉刃
+
+Taryn's Shiver = 塔林的顫慄之語
+
+Wreath of Phrecia = 費西亞之環
+
+Ngamahu's Flame = 里特拿馬乎
+
+Romira's Banquet = 羅米拉的潛力之環
+
+Replica Wings of Entropy = 贗品．亂世之翼
+
+Nebuloch = 銀河眾星
+
+Rebuke of the Vaal = 瓦爾戰刃
+
+The Formless Flame = 無形火炬
+
+Lightpoacher = 光明獵盜者
+
+Eye of Innocence = 無罪之眼
+
+Xoph's Heart = 索伏之心
+
+Uul-Netol's Kiss = 烏爾尼多之吻
+
+Repentance = 悔悟之掌
+
+The Bringer of Rain = 祭禮之雨
+
+Winds of Change = 昇華之風
+
+Touch of Anguish = 極度苦痛
+
+Feastbind = 盛宴之結
+
+Taproot = 砥礪深根
+
+Maligaro's Restraint = 馬雷葛蘿的染血之環
+
+Wildslash = 野性狂爪
+
+Blackgleam = 黑炎之芒
+
+Chin Sol = 亂矢之弦
+
+Crown of Thorns = 刺棘之冠
+
+The Gluttonous Tide = 饕餮浪潮
+
+Death's Harp = 冥使之琴
+
+Ezomyte Peak = 艾茲麥的榮光
+
+Wurm's Molt = 龍蛻之帶
+
+Farrul's Chase = 費爾羅獵靴
+
+Mercenary's Lot = 僱用兵之命
+
+Tempered Spirit = 冶鍊之靈
+
+Arborix = 阿布里斯
+
+Sundance = 日耀
+
+Bloodseeker = 嗜血之爪
+
+The Rat Cage = 疫鼠囚籠
+
+The Retch = 嘔吐
+
+Weight of Sin = 罪惡的重量
+
+Fenumus' Weave = 菲恩絲夜織
+
+Tulfall = 托沃臥
+
+Sinvicta's Mettle = 辛維塔之毅
+
+Vorana's March = 沃拉娜的軍隊
+
+Trypanon = 裂顱
+
+Black Zenith = 漆黑極頂
+
+Replica Bitterdream = 贗品．苦夢
+
+The Druggery = 純貨
+
+Sacrificial Heart = 犧牲之心
+
+Cybil's Paw = 希比爾的冰爪
+
+Plume of Pursuit = 追逐之羽
+
+Replica Nebulis = 贗品．銀河星雲
+
+Story of the Vaal = 瓦爾之序
+
+Replica Sorrow of the Divine = 贗品．神聖哀悼
+
+Earendel's Embrace = 伊爾多恩的擁抱
+
+Replica Blood Sacrifice = 贗品．血犧
+
+Agnerod South = 南方雷霆聖杖
+
+Soul's Wick = 魂靈之芯
+
+Umbilicus Immortalis = 不朽繫命
+
+Scaeva = 食蚜
+
+Wanderlust = 苦行之履
+
+Aukuna's Will = 奧庫納之意
+
+Titucius' Span = 提圖庫斯的堅盾
+
+From Dust = 塵土歸來
+
+Vis Mortis = 兀鳴
+
+Ambu's Charge = 安姆布的戰甲
+
+The Grey Spire = 斑駁蒼杖
+
+Replica Atziri's Acuity = 贗品．阿茲里的捷思
+
+Hrimnor's Hymn = 雷姆諾的奪命樂具
+
+The Ghastly Theatre = 恐怖劇院
+
+The Flow Untethered = 潺流不息
+
+Tecrod's Gaze = 特克羅德的邪眼
+
+Relentless Fury = 無盡憤怒
+
+Starforge = 核星
+
+Innsbury Edge = 茵斯布雷之刃
+
+Stormcharger = 暴充
+
+Wake of Destruction = 覆滅之兆
+
+Replica Allelopathy = 贗品．相生相剋
+
+Gorgon's Gaze = 戈耳戈的凝視
+
+The Blue Dream = 碧影夢境
+
+Mutewind Whispersteps = 啞風輕步
+
+Foxshade = 狐毛鎧
+
+Replica Prismweave = 贗品．幻彩菱織
+
+Solaris Lorica = 烈陽鎧
+
+Icetomb = 冰息
+
+Manastorm = 魔能暴風
+
+Wraithlord = 憤靈郡主
+
+Bino's Kitchen Knife = 比諾的廚刀
+
+Blood Sacrifice = 血犧
+
+Wildfire = 燐火
+
+Tasalio's Sign = 塔薩里之印
+
+Beacon of Madness = 瘋癲之引
+
+Slitherpinch = 蒼蟒之鱗
+
+Replica Loreweave = 贗品．智者織衫
+
+Mistwall = 迷霧之璧
+
+Replica Innsbury Edge = 贗品．茵斯布雷之刃
+
+The Unshattered Will = 不滅意志
+
+Malachai's Vision = 瑪拉凱的遠見
+
+Yriel's Fostering = 伊瑞的栽培
+
+Nightgrip = 夜之觸
+
+Twyzel = 峽灣之星
+
+Abberath's Horn = 艾貝拉斯之角
+
+Fenumus' Toxins = 菲恩絲獠牙
+
+Fenumus' Spinnerets = 菲恩絲刺靴
+
+Dreamfeather = 幻夢飛羽
+
+Jaws of Agony = 苦痛狂鯊
+
+Garb of the Ephemeral = 無常禮袍
+
+Malachai's Artifice = 瑪拉凱的巧技
+
+Replica Cheap Construction = 贗品．廉價建設

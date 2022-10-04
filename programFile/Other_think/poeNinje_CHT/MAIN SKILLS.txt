@@ -1,0 +1,1023 @@
+Lightning Strike = 閃電打擊
+
+Righteous Fire = 正義之火
+
+Vaal Lightning Strike = 瓦爾．閃電打擊
+
+Fire Trap = 火焰陷阱
+
+Cyclone = 旋風斬
+
+Ice Spear = 冰矛
+
+Spark = 電球
+
+Tornado Shot = 龍捲射擊
+
+Lightning Conduit = 導雷
+
+Divergent Cyclone = 相異的旋風斬
+
+Freezing Pulse = 冰霜脈衝
+
+Anomalous Vaal Lightning Strike = 異常的瓦爾．閃電打擊
+
+Creeping Frost = 寒霜滲透
+
+Venom Gyre = 猛毒迴旋
+
+Kinetic Blast = 力量爆破
+
+Blade Vortex = 飛刃風暴
+
+Explosive Arrow = 爆炸箭矢
+
+Anomalous Ice Spear = 異常的冰矛
+
+Forbidden Rite = 禁忌儀式
+
+Vaal Blade Vortex = 瓦爾．飛刃風暴
+
+Divergent Tornado Shot = 相異的龍捲射擊
+
+Divergent Venom Gyre = 相異的猛毒迴旋
+
+Caustic Arrow = 腐蝕箭矢
+
+Divergent Kinetic Blast = 相異的力量爆破
+
+Vortex = 旋渦
+
+Divergent Spark = 相異的電球
+
+Eye of Winter = 凜冬之眼
+
+Corrupting Fever = 腐化潮
+
+Reap = 收割
+
+Flicker Strike = 閃現打擊
+
+Spectral Helix = 靈體旋武
+
+Anomalous Forbidden Rite = 異常的禁忌儀式
+
+Divergent Ice Spear = 相異的冰矛
+
+Vaal Righteous Fire = 瓦爾．正義之火
+
+Orb of Storms = 風暴漩渦
+
+Power Siphon = 力量抽取
+
+Shockwave = 衝擊波
+
+Frenzy = 狂怒
+
+Arc = 電弧
+
+Divergent Creeping Frost = 相異的寒霜滲透
+
+Poisonous Concoction = 毒藥
+
+Signal Prey = 獵物信號
+
+Summon Raging Spirit = 召喚憤怒狂靈
+
+Phantasmal Spark = 幻影的電球
+
+Volatile Dead = 致命之息
+
+Summon Carrion Golem = 召喚食腐魔像
+
+Siege Ballista = 攻城炮台
+
+Anomalous Power Siphon = 異常的力量抽取
+
+Ethereal Knives = 虛空匕首
+
+Detonate Dead = 屍體爆破
+
+Anomalous Orb of Storms = 異常的風暴漩渦
+
+Divergent Flicker Strike = 相異的閃現打擊
+
+Anomalous Caustic Arrow = 異常的腐蝕箭矢
+
+Anomalous Tornado Shot = 異常的龍捲射擊
+
+Cremation = 熔炎送葬
+
+Phantasmal Cremation = 幻影的熔炎送葬
+
+General's Cry = 將軍戰吼
+
+Divergent Poisonous Concoction = 相異的毒藥
+
+Anomalous Siege Ballista = 異常的攻城炮台
+
+Anomalous Corrupting Fever = 異常的腐化潮
+
+Spectral Shield Throw = 盾靈投擲
+
+Vaal Cyclone = 瓦爾．旋風斬
+
+Divergent Vortex = 相異的旋渦
+
+Boneshatter = 碎骨
+
+Smite = 雷鳴重擊
+
+Toxic Rain = 腐蝕毒雨
+
+Phantasmal Spectral Shield Throw = 幻影的盾靈投擲
+
+Blade Flurry = 刀鋒亂舞
+
+Vaal Detonate Dead = 瓦爾．屍體爆破
+
+Ice Nova = 冰霜新星
+
+Barrage = 彈幕
+
+Explosive Trap = 爆裂陷阱
+
+Phantasmal Smite = 幻影的雷鳴重擊
+
+Soulrend = 靈體撕裂
+
+Divergent Vaal Cyclone = 相異的瓦爾．旋風斬
+
+Storm Brand = 風暴烙印
+
+Summon Skeletons = 召喚骷髏
+
+Lightning Arrow = 閃電箭矢
+
+Vaal Summon Skeletons = 瓦爾．召喚骷髏
+
+Blazing Salvo = 熾熱魔炮
+
+Vaal Arc = 瓦爾．電弧
+
+Shield Crush = 重盾粉碎
+
+Frostbolt = 寒冰彈
+
+Anomalous Kinetic Blast = 異常的力量爆破
+
+Vaal Spark = 瓦爾．電球
+
+Summon Holy Relic = 召喚聖物
+
+Anomalous Reap = 異常的收割
+
+Hexblast = 咒術枯萎
+
+Divergent Summon Holy Relic = 相異的召喚聖物
+
+Firestorm = 烈炎風暴
+
+Anomalous Spark = 異常的電球
+
+Raise Zombie = 殭屍復甦
+
+Anomalous Boneshatter = 異常的碎骨
+
+Icestorm = 冰風暴
+
+Winter Orb = 凜冬之球
+
+Anomalous Lightning Strike = 異常的閃電打擊
+
+Absolution = 赦免
+
+Crackling Lance = 碎雷電閃
+
+Divergent Barrage = 相異的彈幕
+
+Blade Blast = 劍刃爆破
+
+Death Wish = 咒死
+
+Summon Stone Golem = 召喚巨石魔像
+
+Phantasmal Frostbolt = 幻影的寒冰彈
+
+Flammability = 易燃
+
+Phantasmal Ice Spear = 幻影的冰矛
+
+Bane = 災厄
+
+Divergent Volatile Dead = 相異的致命之息
+
+Divergent Shield Crush = 相異的重盾粉碎
+
+Divergent Summon Raging Spirit = 相異的召喚憤怒狂靈
+
+Exsanguinate = 抽血
+
+Anomalous Venom Gyre = 異常的猛毒迴旋
+
+Essence Drain = 靈魂吸取
+
+Phantasmal Crackling Lance= 幻影的碎雷電閃
+
+Anomalous Vaal Arc = 異常的瓦爾．電弧
+
+Ice Trap = 冰凍陷阱
+
+Blight = 萎滅
+
+Divergent Hexblast = 相異的咒術枯萎
+
+Anomalous Arc = 異常的電弧
+
+Divergent Vaal Spark = 相異的瓦爾．電球
+
+Molten Strike = 熔岩之擊
+
+Anomalous Ice Nova = 異常的冰霜新星
+
+Herald of Agony = 苦痛之捷
+
+Vaal Blight = 瓦爾．萎滅
+
+Seismic Trap = 地裂陷阱
+
+Animate Guardian = 幻化守衛
+
+Herald of Thunder = 閃電之捷
+
+Fireball = 火球
+
+Unhinge = 錯亂
+
+Divergent Boneshatter = 相異的碎骨
+
+Anomalous Volatile Dead = 異常的致命之息
+
+Ball Lightning = 天雷之珠
+
+Discharge = 解放
+
+Divergent Molten Strike = 相異的熔岩之擊
+
+Raise Spectre = 喚醒幽魂
+
+Phantasmal Toxic Rain = 幻影的腐蝕毒雨
+
+Reave = 衝擊波
+
+Divergent Lightning Conduit = 相異的導雷
+
+Storm Rain = 暴風雷雨
+
+Phantasmal Soulrend = 幻影的靈體撕裂
+
+Grace = 優雅
+
+Sunder = 大地震擊
+
+Anomalous Vaal Blade Vortex = 異常的瓦爾．飛刃風暴
+
+Divergent Herald of Agony = 相異的苦痛之捷
+
+Vaal Reave = 瓦爾．衝擊波
+
+Divergent Vaal Detonate Dead = 相異的瓦爾．屍體爆破
+
+Rage Vortex = 盛怒漩渦
+
+Wintertide Brand = 冬潮烙印
+
+Vaal Power Siphon = 瓦爾．力量抽取
+
+Wave of Conviction = 信念浪湧
+
+Anomalous Vortex = 異常的旋渦
+
+Glacial Cascade = 冰川之刺
+
+Rain of Arrows = 箭雨
+
+Anomalous Detonate Dead = 異常的屍體爆破
+
+Shockwave Totem = 震波圖騰
+
+Lightning Trap = 閃電陷阱
+
+Anomalous Ice Trap = 異常的冰凍陷阱
+
+Phantasmal Creeping Frost = 幻影的寒霜滲透
+
+Spectral Throw = 靈體投擲
+
+Anomalous Vaal Power Siphon = 異常的瓦爾．力量抽取
+
+Consecrated Path = 奉獻之路
+
+Ice Shot = 冰霜射擊
+
+Anomalous Toxic Rain = 異常的腐蝕毒雨
+
+Divergent Fireball = 相異的火球
+
+Divergent Righteous Fire = 相異的正義之火
+
+Anomalous Sunder = 異常的大地震擊
+
+Anomalous Consecrated Path = 異常的奉獻之路
+
+Frost Blades = 冰霜之刃
+
+Divergent Animate Guardian = 相異的幻化守衛
+
+Frostblink = 霜漣之瞬
+
+Blast Rain = 爆裂箭雨
+
+Anomalous Blast Rain = 異常的爆裂箭雨
+
+Purifying Flame = 淨化烈焰
+
+Anomalous Freezing Pulse = 異常的淨化烈焰
+
+Anomalous Storm Rain = 異常的暴風雷雨
+
+Anomalous Animate Guardian = 異常的幻化守衛 
+
+Ancestral Warchief = 先祖戰士長
+
+Divergent Spectral Throw = 相異的靈體投擲
+
+Scorching Ray = 熾灼奔流
+
+Lancing Steel = 鋼之突刺
+
+Anomalous Frenzy = 異常的狂怒
+
+Scourge Arrow = 天譴之箭
+
+Icicle Mine = 冰雹地雷
+
+Divergent Forbidden Rite = 相異的禁忌儀式
+
+Divergent Ball Lightning = 相異的天雷之珠
+
+Phantasmal Winter Orb = 幻影的凜冬之球
+
+Shock Nova = 閃電新星
+
+Ensnaring Arrow = 誘捕箭矢
+
+Divergent Lightning Arrow = 相異的閃電箭矢
+
+Shrapnel Ballista = 彈片砲塔
+
+Phantasmal Cyclone = 幻影的旋風斬
+
+Anomalous Creeping Frost = 異常的寒霜滲透 
+
+Blood Rage = 鮮血狂怒
+
+Divergent Vaal Lightning Strike = 相異的瓦爾．閃電打擊
+
+Anomalous Icicle Mine = 異常的冰雹地雷
+
+Storm Burst = 風爆
+
+Anomalous Lightning Conduit = 異常的導雷
+
+Herald of Purity = 純淨之捷
+
+Divergent Vaal Righteous Fire = 相異的瓦爾．正義之火
+
+Wild Strike = 野性打擊
+
+Summon Flame Golem = 召喚烈焰魔像
+
+Ice Crash = 寒冰衝擊
+
+Sniper's Mark = 狙擊者印記
+
+Divergent Exsanguinate = 相異的抽血
+
+Elemental Hit = 元素打擊
+
+Anomalous Shrapnel Ballista = 異常的彈片砲塔
+
+Anomalous Eye of Winter = 異常的凜冬之眼
+
+Anomalous Fire Trap = 異常的火焰陷阱
+
+Bladestorm = 旋天劍舞
+
+Assassin's Mark = 刺客印記
+
+Galvanic Field = 電光領域
+
+Vaal Ancestral Warchief = 瓦爾．先祖戰士長
+
+Anomalous Shield Crush = 異常的重盾粉碎
+
+Phantasmal Lightning Arrow = 幻影的閃電箭矢
+
+Bladefall = Bladefall
+
+Animate Weapon = 幻化武器
+
+Frost Bomb = 寒霜爆
+
+Dominating Blow = 霸氣之擊
+
+Anomalous Shockwave Totem = 異常的震波圖騰
+
+Divergent Explosive Trap = 相異的爆裂陷阱
+
+Anomalous Exsanguinate = 異常的抽血
+
+Anomalous Ethereal Knives = 異常的虛空匕首
+
+Phase Run = 暗影迷蹤
+
+Splitting Steel = 鋼之裂化
+
+Cleave = 劈砍
+
+Vaal Ground Slam = 瓦爾．裂地之擊
+
+Ground Slam = 裂地之擊
+
+Kinetic Bolt = 力量穿引
+
+Split Arrow = 分裂箭矢
+
+Vaal Ice Nova = 瓦爾．冰霜新星
+
+Divine Ire = 聖怒
+
+Divergent Summon Carrion Golem = 相異的召喚食腐魔像
+
+Phantasmal Dominating Blow = 幻影的霸氣之擊
+
+Blade Trap = 刀鋒陷阱
+
+Storm Call = 風暴呼喚
+
+Divergent Eye of Winter = 相異的凜冬之眼
+
+Anomalous Raise Spectre = 異常的喚醒幽魂
+
+Ancestral Protector = 先祖衛士
+
+Phantasmal Vaal Reave = 幻影的瓦爾．衝擊波
+
+Divergent Explosive Arrow = 相異的爆炸箭矢
+
+Divergent Blazing Salvo = 相異的熾熱魔炮
+
+Flame Dash = 烈焰衝刺
+
+Punishment = 懲戒
+
+Phantasmal Discharge = 幻影的解放
+
+Anomalous Storm Burst = 異常的風爆
+
+Cold Snap = 霜暴
+
+Phantasmal Vaal Spark = 幻影的瓦爾．電球
+
+Frostbite = 凍傷
+
+Divergent Purifying Flame = 相異的淨化烈焰
+
+Divergent Lightning Trap = 相異的閃電陷阱
+
+Anomalous Righteous Fire = 異常的正義之火
+
+Divergent Corrupting Fever = 相異的腐化潮 
+
+Pyroclast Mine = 炎爆新星地雷
+
+Blink Arrow = 閃現射擊
+
+Anomalous Summon Carrion Golem = 異常的召喚食腐魔像
+
+Anomalous Blazing Salvo = 異常的熾熱魔炮
+
+Artillery Ballista = 火砲砲塔
+
+Shield Charge = 重盾衝鋒
+
+Vaal Rain of Arrows = 瓦爾．箭雨
+
+Anomalous Scourge Arrow = 異常的天譴之箭
+
+Anomalous Kinetic Bolt = 異常的力量穿引
+
+Hydrosphere = 水弒界
+
+Vaal Cold Snap = 瓦爾．霜暴
+
+Lightning Warp = 閃電傳送
+
+Conductivity = 導電
+
+Divergent Ice Trap = 相異的冰凍陷阱
+
+Divergent Shockwave Totem = 相異的震波圖騰
+
+Vaal Grace = 瓦爾．優雅
+
+Cobra Lash = 毒蛇鞭笞
+
+Anomalous Blood Rage = 異常的鮮血狂怒
+
+Anomalous Cyclone = 異常的旋風斬
+
+Divergent Summon Flame Golem = 相異的召喚烈焰魔像
+
+Despair = 絕望
+
+Divergent Freezing Pulse = 相異的冰霜脈衝
+
+Anomalous Shock Nova = 異常的閃電新星
+
+Bodyswap = 屍術傳送
+
+Summon Reaper = 召喚奪魂鐮
+
+Tectonic Slam = 破體之擊
+
+Vengeance = 復仇
+
+Anomalous Rage Vortex = 異常的盛怒漩渦
+
+Portal = 時空之門
+
+Voltaxic Burst = 魔痕爆發
+
+Anomalous Lancing Steel = 異常的鋼之突刺
+
+Molten Shell = 熔岩護盾
+
+Anomalous Blade Blast = 異常的劍刃爆破
+
+Aspect of the Spider = 毒蛛祝福
+
+Dark Pact = 暗夜血契
+
+Penance Brand = 贖罪烙印
+
+Lightning Spire Trap = 鋒雷陷阱
+
+Divergent Glacial Cascade = 相異的冰川之刺
+
+Rolling Magma = 熔岩翻騰
+
+Anomalous Vaal Summon Skeletons = 異常的瓦爾．召喚骷髏
+
+Anomalous Raise Zombie = 異常的殭屍復甦
+
+Lacerate = 破空斬
+
+Phantasmal Galvanic Field = 幻影的電光領域
+
+Anomalous Frostbolt = 異常的寒冰彈
+
+Vaal Spectral Throw = 瓦爾．靈體投擲
+
+Divergent Smite = 雷鳴重擊
+
+Vitality = 活力
+
+Phantasmal Blink Arrow = 幻影的閃現射擊
+
+Divergent Artillery Ballista = 相異的火砲砲塔
+
+Incinerate = 燒毀
+
+Divergent Rain of Arrows = 相異的箭雨
+
+Anomalous Spectral Helix = 異常的靈體旋武
+
+Anomalous Cleave = 異常的劈砍
+
+Static Strike = 充能打擊
+
+Earthquake = 震地
+
+Divergent Vaal Rain of Arrows = 相異的瓦爾．箭雨
+
+Withering Step = 凋零之步
+
+Divergent Cobra Lash = 相異的毒蛇鞭笞
+
+Anomalous Vaal Blight = 異常的瓦爾．萎滅
+
+Divergent Frostblink = 幻影的霜漣之瞬
+
+Divergent Frost Bomb = 幻影的寒霜爆
+
+Divergent Arc = 幻影的電弧
+
+Phantasmal Storm Brand = 幻影的風暴烙印
+
+Flame Wall = 烈焰之牆
+
+Lightning Tendrils = 電能釋放
+
+Phantasmal Lightning Tendrils = 幻影的電能釋放
+
+Leap Slam = 躍擊
+
+War Banner = 戰爭之旗
+
+Anomalous Vaal Spark = 異常的瓦爾．電球
+
+Vaal Storm Call = 瓦爾．風暴呼喚
+
+Precision = 精準
+
+Divergent Vaal Spectral Throw = 相異的瓦爾．靈體投擲
+
+Mirror Arrow = 魅影射擊
+
+Phantasmal Mirror Arrow = 幻影的魅影射擊
+
+Anomalous Frost Blades = 異常的冰霜之刃
+
+Phantasmal Raise Zombie = 幻影的殭屍復甦
+
+Divergent Summon Reaper = 相異的召喚奪魂鐮
+
+Glacial Hammer = 冰霜之錘
+
+Galvanic Arrow = 電流箭矢
+
+Phantasmal Ancestral Protector = 幻影的先祖衛士
+
+Anomalous Withering Step = 異常的凋零之步
+
+Dash = 幻步
+
+Vaal Earthquake = 瓦爾．震地
+
+Anomalous Punishment = 異常的懲戒
+
+Anomalous Vaal Ice Nova = 異常的瓦爾．冰霜新星
+
+Divergent Dark Pact = 相異的暗夜血契
+
+Divergent Soulrend = 異常的靈體撕裂
+
+Phantasmal Vaal Cyclone = 幻影的瓦爾．旋風斬
+
+Vaal Flameblast = 瓦爾．烈焰爆破
+
+Flameblast = 烈焰爆破
+
+Desecrate = 褻瀆
+
+Summon Chaos Golem = 召喚混沌魔像
+
+Phantasmal Frenzy = 幻影的狂怒
+
+Divergent Storm Brand = 相異的風暴烙印
+
+Anomalous Frostblink = 異常的霜漣之瞬
+
+Divergent Summon Stone Golem = 相異的召喚巨石魔像
+
+Anomalous Summon Raging Spirit = 異常的召喚憤怒狂靈
+
+Divergent Split Arrow = 相異的分裂箭矢
+
+Phantasmal Wild Strike = 幻影的野性打擊
+
+Anomalous Vaal Righteous Fire = 異常的瓦爾．正義之火
+
+Divergent Herald of Purity = 相異的純淨之捷
+
+Vaal Lightning Trap = 瓦爾．閃電陷阱
+
+Divergent Vaal Lightning Trap = 相異的瓦爾．閃電陷阱
+
+Aspect of the Cat = 傲貓祝福
+
+Explosive Concoction = 爆裂物
+
+Clarity = 清晰
+
+Divergent Incinerate = 相異的燒毀
+
+Divergent Spectral Helix = 相異的靈體旋武
+
+Doryani's Touch = 多里亞尼之觸
+
+Divergent General's Cry = 相異的將軍戰吼
+
+Anomalous Glacial Hammer = 異常的冰霜之錘
+
+Divergent Shield Charge = 相異的重盾衝鋒
+
+Earthshatter = 碎地重擊
+
+Divergent Tectonic Slam = 相異的破體之擊
+
+Infernal Blow = 煉獄之擊
+
+Anomalous Infernal Blow = 異常的煉獄之擊
+
+Phantasmal Scourge Arrow = 幻影的天譴之箭
+
+Anomalous Lightning Arrow = 異常的閃電箭矢
+
+Plague Bearer = 病疫之難
+
+Divergent Frostbite = 相異的凍傷
+
+Anomalous Blade Vortex = 異常的飛刃風暴
+
+Divergent Detonate Dead = 相異的屍體爆破
+
+Phantasmal Desecrate = 幻影的褻瀆
+
+Flame Surge = 怒焰奔騰
+
+Convocation = 號召
+
+Elemental Weakness = 元素要害
+
+Defiance Banner = 反抗之旗
+
+Divergent Wild Strike = 相異的野性打擊
+
+Anomalous Flicker Strike = 異常的閃現打擊
+
+Phantasmal Vaal Lightning Strike = 幻影的瓦爾．閃電打擊
+
+Divergent Blade Trap = 相異的刀鋒陷阱
+
+Summon Skitterbots = 召喚探測機獸
+
+Immortal Call = 不朽怒嚎
+
+Enfeeble = 衰弱
+
+Searing Bond = 灼熱連結
+
+Phantasmal Searing Bond = 幻影的灼熱連結
+
+Anomalous Assassin's Mark = 異常的刺客印記
+
+Vulnerability = 脆弱
+
+Anomalous Vaal Grace = 異常的瓦爾．優雅
+
+Frost Wall = 冰牆
+
+Vaal Clarity = 瓦爾．清晰
+
+Divergent Galvanic Field = 相異的電光領域
+
+Divergent Pyroclast Mine = 相異的炎爆新星地雷
+
+Sigil of Power = 咒符之力
+
+Phantasmal Sigil of Power = 幻影的咒符之力
+
+Phantasmal Pyroclast Mine = 幻影的炎爆新星地雷
+
+Unearth = 屍術矢
+
+Holy Flame Totem = 神聖火舌圖騰
+
+Divergent Wave of Conviction = 相異的信念浪湧
+
+Divergent Flammability = 相異的易燃
+
+Molten Burst = 熔岩爆破
+
+Anomalous Splitting Steel = 異常的鋼之裂化
+
+Anomalous Vengeance = 異常的復仇
+
+Dual Strike = 雙持打擊
+
+Vaal Glacial Hammer = 瓦爾．冰霜之錘
+
+Anomalous Vaal Glacial Hammer = 異常的瓦爾．冰霜之錘
+
+Divergent Static Strike = 相異的充能打擊
+
+Phantasmal Vaal Arc = 幻影的瓦爾．電弧
+
+Anomalous Vaal Rain of Arrows = 異常的瓦爾．箭雨
+
+Anomalous Rain of Arrows = 異常的箭雨
+
+Anomalous Voltaxic Burst = 異常的魔痕爆發
+
+Phantasmal Barrage = 幻影的彈幕
+
+Divergent Ice Shot = 相異的冰霜射擊
+
+Puncture = 放血
+
+Divergent Scourge Arrow = 相異的天譴之箭
+
+Vaal Fireball = 瓦爾．火球
+
+Divergent Vaal Fireball = 相異的瓦爾．火球
+
+Divergent Blade Vortex = 相異的飛刃風暴
+
+Vaal Molten Shell = 瓦爾．熔岩護盾
+
+Phantasmal Shrapnel Ballista = 幻影的彈片砲塔
+
+Wither = 死亡凋零
+
+Divergent Voltaxic Burst = 相異的魔痕爆發
+
+Divergent Plague Bearer = 相異的病疫之難
+
+Anomalous Wintertide Brand = 異常的冬潮烙印
+
+Anomalous Soulrend = 異常的靈體撕裂
+
+Phantasmal Hexblast = 幻影的咒術枯萎
+
+Purity of Elements = 元素淨化
+
+Divergent Vaal Ground Slam = 相異的瓦爾．裂地之擊
+
+Arcanist Brand = 奧術烙印
+
+Phantasmal Vaal Blade Vortex = 幻影的瓦爾．飛刃風暴
+
+Phantasmal Vortex = 幻影的旋渦
+
+Anomalous Blight = 異常的萎滅
+
+Phantasmal Bodyswap = 幻影的屍術傳送
+
+Anomalous Wave of Conviction = 異常的信念浪湧
+
+Divergent Desecrate = 相異的褻瀆
+
+Anomalous Summon Chaos Golem = 異常的召喚混沌魔像
+
+Divergent Lightning Spire Trap = 相異的鋒雷陷阱
+
+Anomalous Explosive Arrow = 異常的爆炸箭矢
+
+Anomalous Flame Dash = 異常的烈焰衝刺
+
+Anomalous Flame Wall = 異常的烈焰之牆
+
+Anomalous Flammability = 異常的易燃
+
+Phantasmal Wave of Conviction = 幻影的信念浪湧
+
+Divergent Hydrosphere = 相異的水弒界
+
+Divergent Divine Ire = 相異的聖怒
+
+Queen's Demand = 女王之慾
+
+Anomalous Summon Stone Golem = 異常的召喚巨石魔像
+
+Summon Lightning Golem = 召喚閃電魔像
+
+Anomalous Animate Weapon = 異常的幻化武器
+
+Divergent Raise Zombie = 相異的殭屍復甦
+
+Phantasmal Vengeance = 幻影的復仇
+
+Blood Offering = 鮮血奉獻
+
+Phantasmal Raise Spectre = 幻影的喚醒幽魂
+
+Phantasmal Bladestorm = 幻影的旋天劍舞
+
+Divergent Discharge = 相異的解放
+
+Perforate = 裂地刺穿
+
+Sweep = 橫掃
+
+Anomalous Sweep = 異常的橫掃
+
+Anomalous Lacerate = 異常的破空斬
+
+Anomalous Split Arrow = 異常的分裂箭矢
+
+Anomalous Winter Orb = 異常的凜冬之球
+
+Shattering Steel = 鋼之碎擊
+
+Divergent Shattering Steel = 相異的鋼之碎擊
+
+Phantasmal Lightning Strike = 幻影的閃電打擊
+
+Divergent Vaal Blade Vortex = 相異的瓦爾．飛刃風暴
+
+Tempest Shield = 暴風之盾
+
+Divergent Tempest Shield = 相異的暴風之盾
+
+Anomalous Hexblast = 異常的咒術枯萎
+
+Armageddon Brand = 末日烙印
+
+Aspect of the Avian = 飛羽祝福
+
+Divergent Reap = 相異的收割
+
+Anomalous Bodyswap = 異常的屍術傳送
+
+Anomalous Bladefall = 異常的虛空刀雨
+
+Anomalous Fireball = 異常的火球
+
+Flamethrower Trap = 噴火陷阱
+
+Divergent Shock Nova = 相異的閃電新星
+
+Manabond = 魔能束縛
+
+Anomalous Divine Ire = 異常的聖怒
+
+Stormbind = 風暴術符
+
+Divergent Frostbolt = 相異的寒冰彈
+
+Arcane Cloak = 秘能披風
+
+Anomalous Ensnaring Arrow = 異常的誘捕箭矢
+
+Divergent Scorching Ray = 相異的熾灼奔流
+
+Divergent Shrapnel Ballista = 相異的彈片砲塔
+
+Divergent Storm Burst = 相異的風爆
+
+Divergent Dash = 相異的幻步
+
+Divergent Vaal Arc = 相異的瓦爾．電弧
+
+Determination = 堅定
+
+Anomalous Vulnerability = 異常的脆弱
+
+Purity of Lightning = 閃電淨化
+
+Anger = 憤怒
+
+Hatred = 憎恨
+
+Wrath = 雷霆
+
+Phantasmal Summon Raging Spirit = 幻影的召喚憤怒狂靈
+
+Anomalous Discharge = 異常的解放
+
+Viper Strike = 毒蛇打擊
+
+Phantasmal Molten Strike = 幻影的熔岩之擊
+
+Divergent Icicle Mine = 相異的冰雹地雷
+
+Herald of Ice = 冰霜之捷
+
+Anomalous Herald of Ice = 異常的冰霜之捷
+
+Heavy Strike = 沉重之擊
+
+Divergent Vaal Ice Nova = 相異的瓦爾．冰霜新星
+
+Anomalous Leap Slam = 異常的躍擊
+
+Blood and Sand = 血腥沙戮
+
+Anomalous Blood and Sand = 異常的血腥沙戮
+
+Divergent Seismic Trap = 相異的地裂陷阱
+
+Divergent Lancing Steel = 相異的鋼之突刺
+
+Divergent Ice Nova = 相異的冰霜新星
+
+Divergent Cleave = 相異的劈砍
+
+Summon Bestial Rhoa = 召喚兇猛恐喙鳥
+
+Phantasmal Static Strike = 幻影的充能打擊
+
+Divergent Frenzy = 相異的狂怒

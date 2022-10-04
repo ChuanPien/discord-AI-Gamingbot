@@ -1,0 +1,989 @@
+Prismatic Heart = 多稜之心
+
+Martial Prowess = 武術英勇
+
+Glancing Blows = 側身之擊
+
+Divine Shield = 聖盾
+
+Widespread Destruction = 毀滅擴散
+
+Elemental Overload = 元素超載
+
+Righteous Providence = 正義之庭
+
+Fuel the Fight = 刺激戰鬥
+
+Repeater = 背誦者
+
+Sanctuary = 聖所
+
+Feed the Fury = 豢養狂怒
+
+Pious Path = 廉簡之途
+
+Point Blank = 零點射擊
+
+Pressure Points = 壓力點
+
+Void Beacon = 昇華效果(隱形)
+
+Zealot's Oath = 狂熱誓言
+
+Eye to Eye = 對視
+
+Malediction = 惡語術
+
+Chaos Inoculation = 異靈之體
+
+Ghost Dance = 鬼舞
+
+Pain Attunement = 苦痛靈曲
+
+Flow of Life = 生機流動
+
+Magebane = 咒術災厄
+
+Disorienting Display = 迷茫之列
+
+Gathering Winds = 集風
+
+Iron Will = 鋼鐵意志
+
+Endless Munitions = 無限彈藥
+
+Augury of Penitence = 懺悔之卜
+
+Sadist = 施虐者
+
+Mind Over Matter = 心靈昇華
+
+Ranger Ascendancy = 遊俠昇華職業
+
+Withering Presence = 凋零光環
+
+Ricochet = 彈射
+
+Profane Bloom = 穢言亡語
+
+Doryani's Lesson = 多里亞尼的教程
+
+Eldritch Battery = 異能魔力
+
+Mastermind of Discord = 混沌天才
+
+Quick Getaway = 迅速逃離
+
+Unstoppable Hero = 不敗英雄
+
+Mortifying Aspect = 屈辱面
+
+Fortitude = 堅忍
+
+Heart of Destruction = 毀滅之心
+
+Focal Point = 焦點
+
+Inspirational = 啟發
+
+Unholy Grace = 不潔優雅
+
+Basics of Pain = 苦痛之基
+
+Witch Ascendancy = 女巫昇華職業
+
+Unwaveringly Evil = 堅定邪靈
+
+Inevitable Judgement = 命運審判
+
+Smoking Remains = 殘煙
+
+First to Strike, Last to Fall = 嗜戰如命
+
+Burning Bright = 燃燒閃耀
+
+Student of Decay = 腐朽之徒
+
+Shaper of Storms = 風暴雕塑者
+
+Pathfinder = 追獵者
+
+Forbidden Power = 禁忌力量
+
+Blanketed Snow = 拂雪
+
+Call to Arms = 武裝召喚
+
+Wicked Pall = 邪惡棺木
+
+Iron Breaker = 碎鐵者
+
+Doomsday = 末日
+
+Pure Guile = 純粹詭計
+
+Unwavering Stance = 烈士意志
+
+Fasting = 快速
+
+Master the Fundamentals = 精通基礎
+
+Path of the Witch = 女巫之道
+
+Uncompromising = 永不妥協
+
+Iron Reflexes = 霸體
+
+Far Shot = 遠射
+
+Lethe Shade = 忘卻陰影
+
+Battle-Hardened = 固守戰場
+
+Calamitous = 災難
+
+Way of the Poacher = 盜獵者之途
+
+Force Multiplier = 原力加成
+
+Shaper of Flames = 火焰雕塑者
+
+Duelist Ascendancy = 決鬥者昇華職業
+
+Smite the Weak = 弱點打擊
+
+The Agnostic = 不可知論
+
+Frigid Wake = 寒凜喚醒
+
+Avatar of the Slaughter = 殺戮使徒
+
+Champion = 冠軍
+
+Stormrider = 風暴馭者
+
+Streamlined = 流線型
+
+Elementalist = 元素使
+
+Cremator = 焚屍爐
+
+Iron Grip = 堅鐵之力
+
+Wrapped in Flame = 火焰包覆
+
+Vile Reinvigoration = 復興邪惡
+
+Ancestral Bond = 先祖魂約
+
+Overshock = 過度震驚
+
+Path of the Duelist = 決鬥者之道
+
+Quartz Infusion = 石英化身
+
+Circling Oblivion = 閉鎖遺忘
+
+Polymath = 博學
+
+Ghost Reaver = 靈能護體
+
+Magnifier = 放大
+
+Snowstorm = 暴風雪
+
+Sleepless Sentries = 無眠哨兵
+
+Enduring Composure = 耐久鎮靜
+
+Avatar of the Veil = 面紗女神
+
+Bastion of Elements = 元素壁壘
+
+Escape Artist = 逃脫大師
+
+Furious Assault = 狂暴突襲
+
+Drive the Destruction = 破壞之意
+
+Elemental Equilibrium = 元素之相
+
+Commander of Darkness = 黑暗統御者
+
+Brewed for Potency = 釀造之力
+
+Vast Power = 投入力量
+
+Brush with Death = 死神之拂
+
+Touch of Cruelty = 殘酷之觸
+
+One Step Ahead = 先行
+
+Spiteful Presence = 惡意光環
+
+Heavy Hitter = 沉重打手
+
+Fan of Blades = 刀鋒狂熱
+
+Soul Drinker = 飲魂者
+
+Nature's Boon = 自然的恩賜
+
+Eternal Youth = 青春永駐
+
+Nature's Adrenaline = 大自然的腎上腺素
+
+Arcane Heroism = 祕能英雄
+
+Storm Drinker = 風暴狂飲
+
+Towering Threat = 聳天威脅
+
+Mindless Aggression = 無意識侵略
+
+Mistress of Sacrifice = 奉獻女魔
+
+Guerilla Tactics = 游擊戰術
+
+Aspect of Carnage = 血肉之章
+
+Plaguebringer = 瘟疫帶原者
+
+Wasting Affliction = 耗盡苦難
+
+Renewal = 換新
+
+Necromancer = 死靈師
+
+Resolute Technique = 堅毅之心
+
+Assert Dominance = 維護地位
+
+Nature's Reprisal = 大自然的報仇
+
+War Bringer = 戰爭使者
+
+Ancestral Echo = 先祖回響
+
+Veteran Defender = 防禦老手
+
+Dark Ideation = 黑暗觀念
+
+Aerodynamics = 氣動學
+
+Distilled Perfection = 完美淬鍊
+
+Shaper of Winter = 寒冬雕塑者
+
+Precise Technique = 精準科技
+
+Arcane Pyrotechnics = 祕能煙花
+
+Master Toxicist = 毒物大師
+
+Rapid Assault = 極速進攻
+
+Purposeful Harbinger = 果斷的神諭
+
+Sublime Form = 昇華之型
+
+Essence Rush = 精華湧現
+
+Spiked Concoction = 尖刺混物
+
+Introspection = 自我反省
+
+Bone Barrier = 骸骨屏障
+
+Blast-Freeze = 爆凍
+
+Deadeye = 銳眼
+
+Avatar of the Chase = 追獵使徒
+
+Righteous Path = 正道
+
+Unbreakable = 堅不可破
+
+Wicked Ward = 惡毒牢房
+
+Prodigious Defence = 出奇防禦
+
+Flawless Savagery = 純淨殘暴
+
+Shrieking Bolts = 尖嘯音波
+
+Acrobatics = 移形換影
+
+Devastator = 毀滅者
+
+Lead By Example = 模範領導
+
+Inspired Oppression = 啟發壓迫
+
+Opportunistic = 投機
+
+Fan the Flames = 搧風點火
+
+Corrosive Elements = 腐蝕元素
+
+Practiced Caster = 見習術士
+
+Thunderstruck = 雷擊
+
+Bane of Legends = 神話災難
+
+Feasting Fiends = 宴請邪魔
+
+Blitz = 閃電戰
+
+Unstoppable = 勢不可擋
+
+Perfect Agony = 絕對受難
+
+Unstable Infusion = 不穩定化身
+
+Master of Fire = 火焰大師
+
+Cold to the Core = 冰心
+
+Mage Hunter = 魔術獵手
+
+Astonishing Affliction = 驚奇痛楚
+
+Brutal Fervour = 殘暴熱情
+
+Conviction of Power = 力量定罪
+
+Headsman = 獵頭者
+
+Unflinching = 永不動搖
+
+Vicious Bite = 惡毒之咬
+
+Precise Retaliation = 精確復仇
+
+Thaumophage = 噬菌體
+
+Empowered Envoy = 授權使徒
+
+Mistwalker = 霧行者
+
+Deadly Infusion = 致命專注
+
+Pyromaniac = 縱火狂
+
+Opportunistic Fusilade = 機會主義福斯雷
+
+Untiring = 不懈
+
+Templar Ascendancy = 聖堂武僧昇華職業
+
+Warning Call = 預警呼喚
+
+Scintillating Idea = 靈光乍現
+
+Overlord = 封建霸主
+
+Exposure Therapy = 曝曬療法
+
+Wind-up = 風起
+
+Corpse Pact = 屍骨盟約
+
+Call to the Slaughter = 屠殺惡夢
+
+Undeniable = 不可置疑
+
+Essence Glutton = 吞噬精華
+
+Pursuit of Faith = 信念之訴
+
+Blessed Rebirth = 祝禱重生
+
+Born in the Shadows = 生在影中
+
+Eternal Suffering = 永恆磨難
+
+Path of the Ranger = 遊俠之道
+
+Radiant Crusade = 光輝遠征
+
+Blowback = 後座力
+
+Ritual of Awakening = 昇華儀式
+
+Storm's Hand = 風暴之手
+
+Self-Control = 自制力
+
+Impact = 衝擊
+
+Crave the Slaughter = 屠戮之慾
+
+Misery Everlasting = 永恆苦難
+
+Explosives Expert = 爆破專家
+
+Unwavering Crusade = 堅定聖戰
+
+Wish for Death = 求死
+
+Liege of the Primordial = 先祖諸王
+
+Vaal Pact = 瓦爾冥約
+
+Divine Guidance = 神聖指引
+
+Perfect Crime = 完美犯罪
+
+Conqueror = 征服者
+
+Unspeakable Gifts = 不可描述之贈
+
+Swift Killer = 敏捷殺手
+
+Burden Projection = 重擔投射
+
+Rotten Claws = 腐鏽之爪
+
+Spellbreaker = 破法
+
+Conjured Wall = 召喚之璧
+
+Mob Mentality = 暴民心理
+
+Surprise Sabotage = 驚喜破壞
+
+Septic Spells = 腐爛法術
+
+Deep Chill = 深層冰緩
+
+Rite of Ruin = 毀滅儀式
+
+Heartstopper = 心靈永止
+
+Instruments of Virtue = 美德儀
+
+Electric Presence = 電力光環
+
+Ambush and Assassinate = 伏擊與刺殺
+
+Radiant Faith = 信念之輝
+
+Born of Chaos = 混沌之誕
+
+Paralysis = 麻痺
+
+Raze and Pillage = 抹除和掠奪
+
+Tempered Arrowheads = 鍛煉的箭頭
+
+Vile Bastion = 殘劣壁壘
+
+Guardian = 守護者
+
+Weight Advantage = 優勢權重
+
+Dread March = 驚懼遊行
+
+Marauder Ascendancy = 野蠻人昇華職業
+
+Pure Might = 純粹之力
+
+Endbringer = 終焉使者
+
+Time of Need = 緊急時刻
+
+Avatar of Fire = 火之化身
+
+Careful Handling = 細心掌控
+
+Strike Leader = 罷工領袖
+
+Martial Momentum = 武術氣勢
+
+Arcing Shot = 弧射
+
+Worthy Foe = 可敬的對手
+
+Special Reserve = 特別保留
+
+Minion Instability = 復仇之靈
+
+Life from Death = 死而復生
+
+Berserker = 暴徒
+
+Provocateur = 挑唆者
+
+Winter Prowler = 冬季竊賊
+
+Eldritch Inspiration = 怪異靈感
+
+Lasting Impression = 持續印象
+
+Runebinder = 束縛印
+
+Elemancer = 元能者
+
+Snaring Spirits = 咆嘯靈魂
+
+Path of the Templar = 聖堂武僧之道
+
+Supreme Ego = 至高．自我
+
+Master Alchemist = 煉金術大師
+
+Advance Guard = 進階守衛
+
+Blood in the Eyes = 血之眼
+
+Primordial Bond = 原始連繫
+
+Gratuitous Violence = 免費暴力
+
+Blood Magic = 祭血術
+
+Bastion of Hope = 希望壁壘
+
+Precise Focus = 精確專注
+
+Arena Challenger = 競技場挑戰者
+
+Sap Psyche = 心靈乾枯
+
+Overwhelming Malice = 壓倒性的惡意
+
+Ancestral Reach = 先祖所向
+
+Deadly Repartee = 致命才能
+
+Occultist = 秘術家
+
+Raider = 俠客
+
+Arcane Adept = 祕能專精
+
+Outmatch and Outlast = 完美勝出
+
+Cooked Alive = 現宰
+
+Prismatic Carapace = 多稜甲殼
+
+Unnatural Strength = 超自然之力
+
+Unwavering Faith = 不動信念
+
+Path of the Marauder = 野蠻人之道
+
+Hulking Corpses = 龐大屍堆
+
+Elegant Form = 高雅之姿
+
+Aggressive Defence = 積極防禦
+
+Surging Vitality = 活力湧現
+
+Volatile Presence = 變動光環
+
+Frantic Aspect = 瘋狂面
+
+Fettle = 修補
+
+Rapid Infusion = 極速注入
+
+Arcane Blessing = 秘能庇護
+
+Sanctuary of Thought = 意識聖殿
+
+Liquid Inspiration = 液態啟發
+
+Bloodscent = 血腥味
+
+Tasalio, Cleansing Water = 淨化之水．塔薩里奧
+
+Noxious Strike = 淬毒打擊
+
+Hinekora, Death's Fury = 死之狂怒．悉妮蔻拉
+
+Masterful Form = 神采之形
+
+Toxic Delivery = 毒物走私
+
+Versatile Combatant = 多重戰
+
+Antivenom = 抗毒
+
+Savage Response = 殘暴應對
+
+Rattling Bellow = 慌亂吼叫
+
+Skullbreaker = 碎骨者
+
+Ancestral Guidance = 先祖指引
+
+Master Surgeon = 手術大師
+
+Heraldry = 符紋學
+
+Ramako, Sun's Light = 烈陽之光．雷默科
+
+Chain Reaction = 連鎖反應
+
+Hierophant = 聖宗
+
+Disease Vector = 病原體
+
+Unrelenting = 殺無赦
+
+Cold-Blooded Killer = 冷血殺手
+
+Eye of the Storm = 風暴之眼
+
+Vicious Skewering = 惡毒穿刺
+
+Ngamahu, Flame's Advance = 火徒．拿瑪乎
+
+Molten One's Mark = 熔火之印
+
+Destructive Aspect = 破壞面
+
+Hit and Run = 打帶跑
+
+Dark Messenger = 黑暗信使
+
+Master of Metal = 鐵金剛
+
+Bomb Specialist = 炸彈專家
+
+Expert Sabotage = 破壞專精
+
+Self-Fulfilling Prophecy = 自我實現預言
+
+Peak Vigour = 活力之巔
+
+Second Skin = 換皮
+
+Expansive Might = 擴展之力
+
+Remarkable = 非凡
+
+Wind Dancer = 風魔舞者
+
+Cult-Leader = 邪教教主
+
+Grand Design = 宏偉設計
+
+Solipsism = 唯我論
+
+Agent of Destruction = 破壞特工
+
+Broadside = 舷側砲
+
+Openness = 開放
+
+Haunting Shout = 鬼魅呼嘯
+
+Combat Rhythm = 戰鬥韻律
+
+Energy From Naught = 虛無淬能
+
+Ancestral Inspiration = 先祖啟發
+
+Blessed = 祝福
+
+Master of the Maelstrom = 混亂大師
+
+Harmony of Purpose = 和諧之源
+
+Slayer = 處刑者
+
+Militarism = 軍國主義
+
+Set and Forget = 設定和遺忘
+
+Wind Ward = 風之守衛
+
+Grim Oath = 殘酷誓言
+
+Surefooted Striker = 踏實打手
+
+Endless Hunger = 無盡飢餓
+
+Rote Reinforcement = 加強記憶
+
+Chilling Presence = 冰緩光環
+
+Steady Torment = 持續折磨
+
+Untouchable = 無法觸碰
+
+Aerialist = 高空特技
+
+Antifreeze = 抗凍
+
+Pure Aptitude = 純粹才能
+
+Titanic Swings = 泰坦揮擊
+
+Gladiator's Fortitude = 衛士的毅力
+
+Unyielding = 屹立不搖
+
+Pure Agony = 純粹苦痛
+
+Overwhelm = 鎮壓
+
+Insatiable Killer = 貪得無厭的殺手
+
+Valako, Storm's Embrace = 風暴之擁．瓦拉庫
+
+Stubborn Student = 頑固學生
+
+Demolitions Specialist = 爆破天才
+
+Inquisitor = 判官
+
+Graceful Execution = 優雅處刑
+
+Master of Fear = 恐懼大師
+
+Hound's Mark = 獵犬印記
+
+Feast of Flesh = 血肉盛宴
+
+Haemorrhage = 滲血
+
+One with the Shield = 持盾者
+
+Prismatic Dance = 多稜舞蹈
+
+Tukohama, War's Herald = 戰爭使者．圖克哈瑪
+
+Master of Command = 引導大師
+
+Crimson Dance = 緋紅舞蹈
+
+Powerful Assault = 猛烈襲擊
+
+Necromantic Aegis = 靈能神盾
+
+Doedre's Apathy = 德瑞的冷漠
+
+Peace Amidst Chaos = 混沌中的平靜
+
+Evil Eye = 邪眼
+
+Doedre's Spite = 德瑞的怨恨
+
+Shadow Ascendancy = 暗影刺客昇華職業
+
+Brutal Infamy = 殘暴惡名
+
+Cry Wolf = 狼嚎
+
+Brand Loyalty = 品牌忠誠
+
+Riot Queller = 暴動殺手
+
+Ancestral Might = 先祖之力
+
+Ancestral Preservation = 先祖庇護
+
+Invigorating Portents = 振奮預兆
+
+Run Through = 迅速略過
+
+Savour the Moment = 享受時光
+
+Holistic Health = 整體健康
+
+Enduring Focus = 耐久專注
+
+Wall of Muscle = 肉璧
+
+Explosive Force = 爆破力
+
+Arohongui, Moon's Presence = 月使．亞歐紅古
+
+Stoic Focus = 專注禁慾
+
+Conduit = 能量連結
+
+Vital Focus = 活力專注
+
+Sublime Sensation = 崇高之覺
+
+Numbing Elixir = 無感不死藥
+
+Wound Aggravation = 創傷加劇
+
+Expendability = 擴展性
+
+Rend = 撕裂
+
+Disciples = 紀律
+
+Flexible Sentry = 機動哨兵
+
+Conservation of Energy = 節能
+
+Will Shaper = 意志雕塑
+
+Rot-Resistant = 抗鏽
+
+Mystical Ward = 魔幻守衛
+
+Non-Flammable = 非易燃
+
+Natural Vigour = 自然活力
+
+Veteran Bowyer = 製箭大師
+
+Path of the Shadow = 暗影刺客之道
+
+Daring Ideas = 大膽的想法
+
+Battlefield Dominator = 戰場統治者
+
+Fearsome Warrior = 膽怯戰士
+
+Lord of Drought = 枯旱之君
+
+Genius = 天才
+
+Darting Movements = 猛突位移
+
+Adrenaline = 腎上腺素
+
+Defy Pain = 抵禦苦痛
+
+Unwavering Focus = 堅定專注
+
+Seal Mender = 封口修補
+
+Cold Conduction = 冷傳導
+
+Forbidden Words = 禁咒
+
+Painforged = 痛苦鑄造
+
+Replenishing Presence = 補充光環
+
+Assassin = 刺客
+
+Blood Artist = 血腥藝術家
+
+Enduring Ward = 耐久守衛
+
+Bodyguards = 保鑣
+
+Illuminated Devotion = 無上奉獻
+
+Juggernaut = 勇士
+
+Chieftain = 酋長
+
+Exploit Weakness = 攻其之弱
+
+Shifting Shadow = 替換陰影
+
+Low Tolerance = 低容忍
+
+Dragon Hunter = 獵龍幻士
+
+Doedre's Gluttony = 德瑞的暴食
+
+Gladiator = 衛士
+
+Mender's Wellspring = 治癒湧泉
+
+Hex Breaker = 破魔者
+
+Blacksmith = 鐵匠
+
+Powerful Ward = 強力守衛
+
+Skeletal Atrophy = 骷髏萎縮
+
+Arrow Dancing = 箭矢閃躍
+
+Seeker Runes = 符文探尋者
+
+Sage = 哲人
+
+Alchemist = 鍊金術師
+
+Improvisor = 即興詩人
+
+Clarity of Purpose = 明淨之志
+
+Mage Bane = 咒術災厄
+
+Capacitor = 容器
+
+Disorienting Wounds = 迷茫之殤
+
+Fire Attunement = 火焰曲調
+
+Trickster = 詐欺師
+
+Blizzard Caller = 暴雪舵手
+
+Inevitable Doom = 不可避免的厄運
+
+Tempt the Storm = 誘惑風暴
+
+Follow-Through = 貫徹始終
+
+Occupying Force = 侵佔部隊
+
+Mindfulness = 謹慎
+
+Chip Away = 抹除
+
+Instruments of Zeal = 狂熱儀
+
+Saboteur = 破壞者
+
+Martial Mastery = 武術精通
+
+Vicious Guard = 惡毒護衛
+
+Hibernator = 冬眠
+
+Vivid Hues = 生動色調
+
+Holy Conquest = 神聖征服
+
+Phlebotomist = 放血屍
+
+Spring Back = 彈回
+
+Wizardry = 巫術
+
+Reigning Veteran = 在位老鳥
+
+Quick and Deadly = 迅速與致命
+
+Insulated = 絕緣
+
+The Impaler = 穿刺者
+
+Heart of Iron = 鋼鐵之心
+
+Imbalanced Guard = 不平衡守衛
+
+Violent Retaliation = 暴力復仇
+
+Tawhoa, Forest's Strength = 森林之力．塔赫亞
+
+Rupturing = 斷裂
+
+Readiness = 準備就緒
+
+Compound Injury = 複合傷害
+
+Victim Maker = 加害人
