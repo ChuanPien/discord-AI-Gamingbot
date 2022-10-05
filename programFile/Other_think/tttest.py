@@ -5,7 +5,7 @@ sch = "123 456 7864 5a4s6d54a5 4a6s 4a56s 4d6a4s"
 sch.replace(" ","+")
 msg = "流派"
 
-testStringType = "a54s5d45as5da poeser "
+testStringType = "a54s5d45as5da 詞墜 保險箱 "
 
 #t = ttt.test(msg)
 #print("1 : "+sch+" \n2 : "+t.google())
@@ -14,13 +14,23 @@ testStringType = "a54s5d45as5da poeser "
 
 import json
 #打開json並讀取，使用utf8 encode
-with open('setting.json',mode='r',encoding='utf8') as jFile:
+with open('ID_fix.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
-proKey = jdata["proKey"]
+print(jdata)
+
+
+
+
+
+
+
+'''
+proKey = jdata["詞墜"]
 count_testStringType = 0
 list_testStringType = testStringType.split(" ")
 
 print(len(list_testStringType))
+print(list_testStringType)
 
 if set(list_testStringType) & set(proKey):
     t = ttt.test(testStringType)
@@ -28,9 +38,10 @@ if set(list_testStringType) & set(proKey):
 else:
     print("Fail")
 
-print("元素檢查")
-print(list_testStringType.index('派系'))
 
+print("元素檢查")
+print(list_testStringType.index('元素抗性'))
+'''
 
     
 
