@@ -1,8 +1,13 @@
-import discord
+import discord, json
+from time import sleep
 from discord.ext import commands
 from core.classes import Cog_Extension,Global_Data
 import WIP_other_porgram
 # from WEB_REQUESTS.testPOEweb import testPOE
+
+
+with open('./poe_json/ID_fix.json',mode='r',encoding='utf8') as jFile:
+    jdata = json.load(jFile)
 
 class React(Cog_Extension):
     @commands.command()
@@ -37,6 +42,27 @@ class React(Cog_Extension):
         else:
             Wop = WIP_other_porgram.test(msg)
         await ctx.send(Wop.ninja())
+    
+    # 詞墜表單測試
+    @commands.command()
+    async def shlist(self, ctx):
+        typeteam = []
+        count = 0
+        msglline = 0
+        for typelist in jdata['詞墜']:
+            if count < 3:
+                typeteam.append(typelist)
+                count = count + 1
+            elif count == 3:
+                msglline = msglline + (count/3)
+                await ctx.send(typeteam)
+                count = 0
+                typeteam = []
+            if msglline == 3:
+                sleep(1)
+                msglline = 0
+        else:
+            await ctx.send(typeteam)
     
 
 def setup(bot):
