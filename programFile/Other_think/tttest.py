@@ -1,4 +1,4 @@
-from itertools import count
+from time import sleep
 import ttt
 
 sch = "123 456 7864 5a4s6d54a5 4a6s 4a56s 4d6a4s"
@@ -16,7 +16,40 @@ import json
 #打開json並讀取，使用utf8 encode
 with open('ID_fix.json',mode='r',encoding='utf8') as jFile:
     jdata = json.load(jFile)
-print(jdata)
+print(type(jdata))
+#print(jdata['詞墜'])
+listec = []
+liste = []
+count = 0
+msglline = 0
+for str in jdata['詞墜']:
+    if count < 3:
+        liste.append(str)
+        #print(str)
+        count = count + 1
+    elif count == 3:
+        msglline = msglline + (count/3)
+        listec = listec + liste
+        print(liste)
+        count = 0
+        liste = []
+    if msglline == 3:
+        sleep(0.001)
+        msglline = 0
+print(listec)
+
+print(f"大分類數量: {len(listec)}")
+
+
+indexDict = listec.index(input('>'))
+print(f"\n\n\n\n{jdata['詞墜'][listec[indexDict]]} \n\n\n 總數{len(jdata['詞墜'][listec[indexDict]])}")
+
+#del jdata['id']
+'''
+jsonlist = jdata.split('/n')
+for str in jsonlist:
+    for strlay2 in jsonlist['詞墜']:
+            print(strlay2)'''
 
 
 
