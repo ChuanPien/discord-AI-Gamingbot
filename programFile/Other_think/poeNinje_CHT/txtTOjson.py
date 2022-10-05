@@ -8,7 +8,7 @@ def line_to_dict(split_Line):
 
     print(split_Line)
 
-
+    
     line_dict = {}
     key, value = split_Line.split("=", maxsplit=1)
 
@@ -23,12 +23,14 @@ def convert2(filename) :
     content = f.read()
     splitcontent = content.splitlines()
 
-    #print(splitcontent)
+    for ch in splitcontent:
+        if '' in splitcontent:
+            splitcontent.remove('')
 
     # Split each line by pipe
     lines = [line.split(' = ') for line in splitcontent]
 
-    #print(lines)
+    #for del_nonestr in splitcontent:
 
     # Convert each line to dict
     lines = [line_to_dict(l) for l in splitcontent]
