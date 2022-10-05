@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+	<meta charset="utf-8" />
+	<title>Markdown在线编辑器 - www.MdEditor.com</title>
+	<link rel="shortcut icon" href="https://www.mdeditor.com/images/logos/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+	<h1 id="h1-u5C08u984Cu5C0Fu8A0Eu8AD6"><a name="專題小討論"
+			class="reference-link"></a><span class="header-link octicon octicon-link"></span>專題小討論</h1>
+	<blockquote>
+		<p>2022/09/14討論內容，編輯:沈<br>create :22/09/14 </p>
+	</blockquote>
+	<h2 id="h2-u7DB2u9801u722Cu87F2"><a name="網頁爬蟲"
+			class="reference-link"></a><span class="header-link octicon octicon-link"></span>網頁爬蟲</h2>
+	<h3 id="h3-poe-ninja-"><a name="poe.ninja(流派網頁)"
+			class="reference-link"></a><span class="header-link octicon octicon-link"></span>poe.ninja(流派網頁)</h3>
+	<p>目前暫定方案是寫死程式碼，透過該網址對get/post的變化<br>對網址進行依定程度的簡單編輯後返回給使用者想看的內容。 </p>
+		<h3 id="h3-u8A5Eu589Cu7DB2u9801"><a name="詞墜網頁"
+				class="reference-link"></a><span class="header-link octicon octicon-link"></span>詞墜網頁</h3>
+		<ol>
+			<li>礙於他是<em>ajax post</em>的方式，網址修改法不適用，且皆為post型式。<br>意味著必須以post的形式返回抓取到內容後整理成使用者的查詢內容。</li>
+			<li>且<strong>模擬點擊網頁</strong>的套件無法選取超過1個以上的元素，即便可以成功多元素選取，<br>如何回傳結果<strong>頁面/網頁內容</strong>也是一個問題。</li>
+		</ol>
+		<h3 id="h3-u6293u53D6u65B9u6848"><a name="抓取方案"
+				class="reference-link"></a><span class="header-link octicon octicon-link"></span>抓取方案</h3>
+		<p>暫定擷取全部網頁內容儲存後返回給使用者看。<br>大略步驟 </p>
+			<ol>
+				<li>開啟流亡編年史.詞墜頁面</li>
+				<li>點級篩選道具</li>
+				<li>等待網頁loading完成後,截圖所有詞墜內容並保存成圖片</li>
+				<li>回傳儲存的圖片</li>
+			</ol>
+			<h3 id="h3-u5712u85DDu7DB2u9801"><a name="園藝網頁"
+					class="reference-link"></a><span class="header-link octicon octicon-link"></span>園藝網頁</h3>
+			<p>遊戲內機制修改,簡易化後相關網頁用途不大。</p>
+			<blockquote>
+				<p>ajax post: 在不變更/重定向(重新加載)網址的情況下 顯示對應的內容</p>
+			</blockquote>
+			<h2 id="h2-u4EBAu6027u5316u67E5u8A62"><a name="人性化查詢"
+					class="reference-link"></a><span class="header-link octicon octicon-link"></span>人性化查詢</h2>
+			<h3 id="h3-log-"><a name="log記錄部分已製作出來"
+					class="reference-link"></a><span class="header-link octicon octicon-link"></span>log記錄部分已製作出來</h3>
+			<p>但實作且利用該功能較為困難</p>
+			<ol>
+				<li>礙於json格式 分為key value,<br>key因其不可重複性與唯一識別的特性,不能使用重複的字串,所以在其使用者ID上<br>新增bot紀錄訊息當下的時間。</li>
+				<li>該如何利用紀錄的訊息也是一門學問</li>
+			</ol>
+			<blockquote>
+				<p>json格式:類似於資料庫的形式,其格式如下</p>
+				<pre class="prettyprint linenums prettyprinted"
+					style=""><ol class="linenums"><li class="L0"><code><span class="pun">{</span></code></li><li class="L1"><code><span class="pln"> test</span><span class="pun">:</span><span class="str">"我是一段話"</span></code></li><li class="L2"><code><span class="pln"> password</span><span class="pun">:</span><span class="lit">123456</span></code></li><li class="L3"><code><span class="pun">}</span></code></li></ol></pre>
+			</blockquote>
+			<h3 id="h3--ai-"><a name="小型AI程式"
+					class="reference-link"></a><span class="header-link octicon octicon-link"></span>小型AI程式</h3>
+			<p>目前尚無定論**</p>
+</body>
+
+</html>
