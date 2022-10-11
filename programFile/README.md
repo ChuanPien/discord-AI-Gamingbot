@@ -5,8 +5,12 @@
 Python 3.9.7
 
 ## 使用的主要python模組(module)與其他檔案類型
-1. discord.py----1.7.3
-2. json
+- module
+    1. discord.py----1.7.3
+    2. thefuzz----0.19.0
+- filesType
+    1. json
+
 > 一定要安裝1.7.3版本的discord.py才可運行,1.7.3以上的版本官方大改,如需要請至官方文檔觀看並修改程式碼方便執行
 
 ## 使用方法
