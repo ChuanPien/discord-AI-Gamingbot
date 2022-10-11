@@ -2,13 +2,11 @@
     "Token":"Your Token",
     "Prefix": ["/","`","!"],
     "Owner_id": [322562545523097600,968372079713996821,486537414798606337],
-    "test_discord_group":"專題",
-    "Trans_channelID":983616370178682941,
-    "Trans_test_channelID":998399920799219854,
+
     "listen_channelID":915887153580499016,
     "listen_test_channelID":998421587206348820,
-    "Del_chat_log_ID":996253761297186867,
-	"proKey":["Test","test","poesearch","流派","poeser","ps","ninje","poe.ninje"],
+
+
     "None_channel":0
 
 }
