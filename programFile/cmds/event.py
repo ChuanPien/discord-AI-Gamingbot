@@ -36,6 +36,7 @@ class Event(Cog_Extension):
                     await logChat.send("－－－－－\n" + "ID: " + msg_f.getUserId() + "\nMsg: " + msg_f.getMsg() + "\n－－－－－")
                 else:
                     print("\n\nError")
+        
 
 
 def setup(bot):
